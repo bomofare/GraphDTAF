@@ -1,0 +1,107 @@
+3sjt_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 31 30  0  0  1  0            999 V2000
+   26.1880  -13.1650    7.0090 B   0  5  0  0  0  0
+   21.2870  -17.3560    7.2430 C   0  0  2  0  0  0
+   21.3700  -17.6080    5.8140 N   0  3  0  0  0  0
+   20.0010  -15.8600    8.5410 O   0  0  0  0  0  0
+   20.1890  -16.3220    7.4640 C   0  0  0  0  0  0
+   26.5420  -13.7610    5.8190 O   0  0  0  0  0  0
+   22.6200  -16.8190    7.7580 C   0  0  0  0  0  0
+   26.2920  -11.7980    6.8620 O   0  0  0  0  0  0
+   23.1140  -15.4660    7.2310 C   0  0  0  0  0  0
+   27.0780  -13.5420    7.9840 O   0  0  0  0  0  0
+   24.4960  -14.9700    7.6730 C   0  0  0  0  0  0
+   19.4560  -15.8740    6.3520 O   0  5  0  0  0  0
+   24.8740  -13.5220    7.3500 C   0  0  0  0  0  0
+   20.9280  -18.6440    7.9670 C   0  0  0  0  0  0
+   21.6298  -16.6754    5.2917 H   0  0  0  0  0  0
+   20.3990  -17.9743    5.4493 H   0  0  0  0  0  0
+   22.1440  -18.3650    5.6195 H   0  0  0  0  0  0
+   27.5431  -13.5921    5.3957 H   0  0  0  0  0  0
+   22.5678  -16.6941    8.8496 H   0  0  0  0  0  0
+   23.4224  -17.5287    7.5081 H   0  0  0  0  0  0
+   27.2582  -11.3456    6.5942 H   0  0  0  0  0  0
+   23.1644  -15.4966    6.1326 H   0  0  0  0  0  0
+   22.4177  -14.6741    7.5442 H   0  0  0  0  0  0
+   28.1505  -13.3305    7.8613 H   0  0  0  0  0  0
+   24.5825  -15.0520    8.7665 H   0  0  0  0  0  0
+   25.2752  -15.5830    7.1966 H   0  0  0  0  0  0
+   24.5688  -12.9759    8.2547 H   0  0  0  0  0  0
+   24.1976  -13.2657    6.5213 H   0  0  0  0  0  0
+   19.9667  -19.0217    7.5884 H   0  0  0  0  0  0
+   20.8453  -18.4472    9.0461 H   0  0  0  0  0  0
+   21.7122  -19.3948    7.7902 H   0  0  0  0  0  0
+  1  6  1  0  0  0
+  1  8  1  0  0  0
+  1 10  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2  7  1  0  0  0
+  2 14  1  0  0  0
+  3 15  1  0  0  0
+  3 16  1  0  0  0
+  3 17  1  0  0  0
+  4  5  2  0  0  0
+  5 12  1  0  0  0
+  6 18  1  0  0  0
+  7  9  1  0  0  0
+  7 19  1  0  0  0
+  7 20  1  0  0  0
+  8 21  1  0  0  0
+  9 11  1  0  0  0
+  9 22  1  0  0  0
+  9 23  1  0  0  0
+ 10 24  1  0  0  0
+ 11 13  1  0  0  0
+ 11 25  1  0  0  0
+ 11 26  1  0  0  0
+ 13 27  1  0  0  0
+ 13 28  1  0  0  0
+ 14 29  1  0  0  0
+ 14 30  1  0  0  0
+ 14 31  1  0  0  0
+M  CHG  3   1  -1   3   1  12  -1
+M  END
+> <s_m_source_file>
+../3sjt_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtCLV0oW09IXSkoW09IXSlbQ0gyXVtDSDJdW0NIMl1bQ0gyXVtDQEBdKFtOSDMrXSkoW0NIM10pQyg9TylbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0010
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0010
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000969517582301604
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+$$$$

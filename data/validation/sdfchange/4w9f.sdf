@@ -1,0 +1,286 @@
+4w9f_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 58 60  0  0  1  0            999 V2000
+   40.3420   29.4720   -3.9050 C   0  0  0  0  0  0
+   40.3570   30.0420   -2.4810 C   0  0  0  0  0  0
+   40.8480   31.5010   -2.5310 C   0  0  0  0  0  0
+   41.2970   29.1810   -1.6320 C   0  0  0  0  0  0
+   38.9420   29.9570   -1.9600 C   0  0  0  0  0  0
+   38.9280   30.3840   -0.4640 C   0  0  0  0  0  0
+   39.1650   31.5430   -0.1320 O   0  0  0  0  0  0
+   38.5980   29.4510    0.4450 N   0  0  0  0  0  0
+   38.2290   28.0130    0.2850 C   0  0  0  0  0  0
+   37.4580   27.6870    1.5470 C   0  0  2  0  0  0
+   36.0890   28.0930    1.3880 O   0  0  0  0  0  0
+   38.1300   28.5410    2.6030 C   0  0  0  0  0  0
+   38.5100   29.8380    1.8910 C   0  0  1  0  0  0
+   39.7120   30.3340    2.4580 C   0  0  0  0  0  0
+   40.8100   29.9440    2.0590 O   0  0  0  0  0  0
+   39.5550   31.1930    3.4880 N   0  0  0  0  0  0
+   40.6740   31.7400    4.2490 C   0  0  0  0  0  0
+   40.9060   30.9280    5.4070 C   0  0  0  0  0  0
+   42.1300   31.0480    6.0870 C   0  0  0  0  0  0
+   42.4120   30.2870    7.2200 C   0  0  0  0  0  0
+   39.9760   30.0050    5.9050 C   0  0  0  0  0  0
+   40.2660   29.2380    7.0360 C   0  0  0  0  0  0
+   41.4820   29.3560    7.7140 C   0  0  0  0  0  0
+   41.7160   28.6050    8.8180 C   0  0  0  0  0  0
+   41.3430   26.9180    9.0190 S   0  0  0  0  0  0
+   41.8940   26.8240   10.5650 C   0  0  0  0  0  0
+   42.3390   28.0330   10.9310 N   0  0  0  0  0  0
+   42.2420   29.0040    9.9970 C   0  0  0  0  0  0
+   42.7340   30.4200   10.3320 C   0  0  0  0  0  0
+   41.3569   29.5136   -4.3273 H   0  0  0  0  0  0
+   39.6598   30.0663   -4.5307 H   0  0  0  0  0  0
+   39.9985   28.4273   -3.8782 H   0  0  0  0  0  0
+   41.8789   31.5280   -2.9138 H   0  0  0  0  0  0
+   40.8211   31.9318   -1.5192 H   0  0  0  0  0  0
+   40.1946   32.0852   -3.1957 H   0  0  0  0  0  0
+   42.3207   29.2566   -2.0273 H   0  0  0  0  0  0
+   40.9665   28.1324   -1.6681 H   0  0  0  0  0  0
+   41.2788   29.5356   -0.5909 H   0  0  0  0  0  0
+   38.2953   30.6284   -2.5440 H   0  0  0  0  0  0
+   38.5779   28.9233   -2.0546 H   0  0  0  0  0  0
+   37.6138   27.8907   -0.6186 H   0  0  0  0  0  0
+   39.1430   27.4082    0.1909 H   0  0  0  0  0  0
+   37.4080   26.6161    1.7934 H   0  0  0  0  0  0
+   35.4443   27.5800    0.6592 H   0  0  0  0  0  0
+   37.4262   28.7251    3.4281 H   0  0  0  0  0  0
+   39.0174   28.0173    2.9880 H   0  0  0  0  0  0
+   37.8452   30.7059    2.0130 H   0  0  0  0  0  0
+   38.5239   31.4775    3.7447 H   0  0  0  0  0  0
+   41.5762   31.7480    3.6198 H   0  0  0  0  0  0
+   40.4367   32.7672    4.5628 H   0  0  0  0  0  0
+   42.8781   31.7423    5.7339 H   0  0  0  0  0  0
+   43.3557   30.4085    7.7309 H   0  0  0  0  0  0
+   39.0225   29.8805    5.4134 H   0  0  0  0  0  0
+   39.5407   28.5300    7.4088 H   0  0  0  0  0  0
+   41.9413   25.9982   11.2594 H   0  0  0  0  0  0
+   42.5799   31.0768    9.4632 H   0  0  0  0  0  0
+   43.8049   30.3867   10.5811 H   0  0  0  0  0  0
+   42.1695   30.8105   11.1916 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 30  1  0  0  0
+  1 31  1  0  0  0
+  1 32  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  3 33  1  0  0  0
+  3 34  1  0  0  0
+  3 35  1  0  0  0
+  4 36  1  0  0  0
+  4 37  1  0  0  0
+  4 38  1  0  0  0
+  5  6  1  0  0  0
+  5 39  1  0  0  0
+  5 40  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  1  0  0  0
+  8 13  1  0  0  0
+  9 10  1  0  0  0
+  9 41  1  0  0  0
+  9 42  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 43  1  0  0  0
+ 11 44  1  0  0  0
+ 12 13  1  0  0  0
+ 12 45  1  0  0  0
+ 12 46  1  0  0  0
+ 13 14  1  0  0  0
+ 13 47  1  0  0  0
+ 14 15  2  0  0  0
+ 14 16  1  0  0  0
+ 16 17  1  0  0  0
+ 16 48  1  0  0  0
+ 17 18  1  0  0  0
+ 17 49  1  0  0  0
+ 17 50  1  0  0  0
+ 18 19  2  0  0  0
+ 18 21  1  0  0  0
+ 19 20  1  0  0  0
+ 19 51  1  0  0  0
+ 20 23  2  0  0  0
+ 20 52  1  0  0  0
+ 21 22  2  0  0  0
+ 21 53  1  0  0  0
+ 22 23  1  0  0  0
+ 22 54  1  0  0  0
+ 23 24  1  0  0  0
+ 24 25  1  0  0  0
+ 24 28  2  0  0  0
+ 25 26  1  0  0  0
+ 26 27  2  0  0  0
+ 26 55  1  0  0  0
+ 27 28  1  0  0  0
+ 28 29  1  0  0  0
+ 29 56  1  0  0  0
+ 29 57  1  0  0  0
+ 29 58  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+3
+
+> <s_m_entry_name>
+Structure3
+
+> <s_pdb_PDB_TITLE>
+PVHL:ELOB:ELOC IN COMPLEX WITH (2S,4R)-1-(3,3-DIMETHYLBUTANOYL)-4- HYDROXY-N-(4-(4-METHYLTHIAZOL-5-YL)BENZYL)PYRROLIDINE-2-CARBOXAMIDE (LIGAND 5)
+
+> <s_pdb_PDB_ID>
+4W9F
+
+> <r_pdb_PDB_CRYST1_a>
+92.68
+
+> <r_pdb_PDB_CRYST1_b>
+92.68
+
+> <r_pdb_PDB_CRYST1_c>
+364.02
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 41 2 2
+
+> <i_pdb_PDB_CRYST1_z>
+32
+
+> <s_pdb_PDB_CLASSIFICATION>
+LIGASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+27-AUG-14
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.205
+
+> <r_pdb_PDB_Rfree>
+0.229
+
+> <r_pdb_PDB_RESOLUTION>
+2.1
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.3
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B, C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+D, E, F
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+G, H, I
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains>
+J, K, L
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/aquila/Downloads
+
+> <s_m_Source_File>
+4w9f.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+1
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_converted_selenomethionines>
+1
+
+> <s_ppw_het_states>
+eJzdWT1z3DYU/Cs3V/scPnzD7lKlzaTMpPA4rqLIKZQi4/F/D4kFsEtSk0SWJoVU7S152IfHXYA4fbna9d3l5/UvlfLmsvzy5rKiOlBdJrKJ3ER+ojBRnChtaIMYuw1rU6CNrR9tfNwutLFtKjdRN0Wbnk3lJqof0/Zx/by8XRZbmS9fV+JtrWW9cP3p4cPDp8sfn+4/3D389a7dc/nt44e7737/fPf+8sPt+8/3v14+fv7z/uHdxd5fflxvuW6DXV3vlIU4mrFCR+gJA2EkTISZsBDWCdMyuwc9SBlVIbgnAgnfiEwiNCIeidQb229u5RgrQ1E7Ii29vfFtWiyivTe/fQiVf/nc6+0L/97rbc7f0OSbvc4urwZFi8MGnmRf11p6M/jXD//GPPsZsycMhJEwEWbCQjjbGYu0s4lgfKMUVPZEJBEakUnERszu4VpTNxaCGnZEGd27zfa5x9p3++/xD7193vyYsbewEBqhI/SEgTASJsI82wcRjG+UgsqecCSsEYGEa4Tv7cM1qBsLQQ17Ir94++JoXymzD6VEwkSYCQvh7HqZ29IKjdARenay6UHKqArBPZFJpI2YOxSuoZo9UUdr280ox1gZitoT/n9YPZ/e5Ju9zi6/2OqZhn/X14jRgfU5dRiWZSE0QkfoCQNhJOQLE0QwvlEKKntitALXIGOsAyU4lgB1YyGoYU+kU/wfbd8/x99p/HNvX0x+tG+FdcK5kK7QCB2hJwyEkZDtgwjGN0pBZU/YJLZrkDHWgRIcS4C6sRDUsCfO7Xvu6lnGW3q0+XIe3UJohI7QEwbCSJgIuflABOMbpaCyJxwJa0Qg4RoxNh9cg7qxENSwJ86bz3PdV3v7is3EFjcTu0IjdISeMBBGwkTI9kEE4xuloLInHAlrRCDhGjHah2tQNxaCGvbEy+/dtoz+1TQbUVMkTISZsBDOtte8EBqhI+S2Aj1IGVUhuCcyibQReSGR2x3lSIxtBTejHGNlKGpPPLp5jw9P2rCX3Yb99Mbe7HV2dpp2efKGvew2bBu/bNRlnmFWmAkLYZ2wLIRG6Ag9YZj9hAjGN0pBZU9UEmUjipGojVh6+3AN6sZCUMOeCC8f+vF7B95GMWW+/FS+/NjCt58Nm2An2AsOgqPgJDgLLoJF10TXRNdE10TXRNdE10TXRNdE10TXia4TXSe6TnSd6GL/hWtaa9FVY4MrX/z6tYVvfmSGbwZGu01a37vuDlSQuwKoeKaqUBFUEiqBymeqCFXOY9VG2UKqYTxAd6BkQobqzQvlQcmEDNVvD9cdKCnVMCGTCRmqtypfzKCKUGXeZeKLbgkTe3RnHKnAsRwempM5OszRyUNzfn7RxE3dSBr6a7v7ipSvK4B/5luTzV+M1nElIE4C4iQgTgLiJSBeAuIlIF4C4iUgXoLpRdeLrhddL7pBdIPoBtENohtEN4huEN0gukF0g+hG0Y2iG0U3im7k1tG72xtr0uTe3yNVT5QX73kYzYv3PIzmHV01KAmTh9F8OFNShIf3vCwYHmHy6UzJhHw+j4UweZmQR5jCIqV2SiYUUH2Q5AQkJ8iEAqoPErlBSakBEwoyoYDqg+Q+4AltVnBii36XiTu6MUxM0v1xpCTkEQ8tyhwj5hjloUU3v2jiqW6n41IQ3QsuBYFLQZSYRIlJlJhEiUmUmCSJSZKYJIlJkpgkiWcS3SS6SXST6CbRzaKbRTeLbhbdLLpZdLPoZtHNoptFt4huEd0iusXrUhDhvSgOjfBezGeqnCnxXoTRkngvwWhJttpBSZgSjJb8mZIiEryXZMFICFOKZ0omlNJ5LIQpyYQSwpRkQ+5UlgllVJ8lORnJyTKhjOqzRG5QUmrGhLJMKKP6LLnPeEL8rwRwv8vEHd0YJibp/jhQRUKe8dCKzLFgjkUeWrH5RRNPdTsdl4JiXAri05eCsFsKIpeCIjEpEpMiMSkSkyIxKRKTKjGpEpMqMakSzyq6VXSr6FbRraIrxxaTY4vJscXk2GJybDE5tpgcW0yOLSbHFpNji8mxxeTYYnJsMRxbxlJQ4L0iDi3wXklnKp8p8V7pRhPvFRitylY7KAlThdGqO1NSRIX3qiwYFWGq4UzJhGo8j4UwVZlQRZiqbMiDkgk1jIdq8oD7szV5zv0RuwMV5C4HygvlQSX5YgAVhYrzLhN3dGOYmKT740DJIQiX4RwTF3UDOTFT/6KJp7qdDkuBtd/y+lLwDT+r+rkUfP0bEWVpmg==
+
+> <s_m_source_file>
+../4w9f_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11DKFtDSDNdKShbQ0gzXSlbQ0gyXUMoPU8pTjFbQ0gyXVtDQEhdKFtPSF0pW0NIMl1bQ0BIXTFDKD1PKVtOSF1bQ0gyXWMyW2NIXVtjSF1jKFtjSF1bY0hdMiktYzNzW2NIXW5jM1tDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0002
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

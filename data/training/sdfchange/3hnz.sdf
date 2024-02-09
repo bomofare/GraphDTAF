@@ -1,0 +1,214 @@
+3hnz_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 58 62  0  0  1  0            999 V2000
+   62.3860   34.5770    5.6180 O   0  0  0  0  0  0
+   60.1370   31.5270    0.6930 O   0  0  0  0  0  0
+   60.8400   28.3140    3.9820 O   0  0  0  0  0  0
+   63.6440   27.6490    7.0920 O   0  0  0  0  0  0
+   59.0090   28.7640    6.4860 O   0  0  0  0  0  0
+   57.3720   27.4260    7.9980 O   0  0  0  0  0  0
+   58.3810   25.9640    9.5690 O   0  5  0  0  0  0
+   61.4970   29.2530    5.7580 N   0  0  0  0  0  0
+   61.2910   29.3190    4.4860 C   0  0  0  0  0  0
+   61.6100   30.5960    3.7340 C   0  0  0  0  0  0
+   60.4030   31.3960    3.9380 C   0  0  0  0  0  0
+   60.2410   32.6630    3.0110 C   0  0  2  0  0  0
+   60.5690   32.4310    1.4680 C   0  0  0  0  0  0
+   61.4810   33.3830    0.9040 C   0  0  0  0  0  0
+   62.0350   34.4100    1.5030 C   0  0  0  0  0  0
+   61.8060   34.8610    2.8500 C   0  0  2  0  0  0
+   61.3190   33.6250    3.6770 C   0  0  1  0  0  0
+   61.0930   34.0940    5.1120 C   0  0  2  0  0  0
+   60.2820   35.4260    5.0910 C   0  0  0  0  0  0
+   61.2300   36.4410    4.4210 C   0  0  2  0  0  0
+   60.8980   36.1040    2.9440 C   0  0  0  0  0  0
+   63.0910   35.4260    3.4930 C   0  0  0  0  0  0
+   62.6190   35.8450    4.8640 C   0  0  2  0  0  0
+   63.5290   36.6240    5.8230 C   0  0  0  0  0  0
+   58.7530   33.2200    2.8960 C   0  0  0  0  0  0
+   58.3150   26.8100    8.5490 C   0  0  0  0  0  0
+   59.6750   27.0760    8.0950 C   0  0  0  0  0  0
+   59.9520   28.0190    7.1210 C   0  0  0  0  0  0
+   61.3050   28.2390    6.7560 C   0  0  0  0  0  0
+   62.3200   27.4990    7.3780 C   0  0  0  0  0  0
+   61.9610   26.5680    8.3280 C   0  0  0  0  0  0
+   60.6790   26.3570    8.6860 C   0  0  0  0  0  0
+   63.9641   28.3837    6.3385 H   0  0  0  0  0  0
+   57.9453   28.6315    6.7329 H   0  0  0  0  0  0
+   61.9124   30.1194    6.2936 H   0  0  0  0  0  0
+   62.5080   31.0615    4.1664 H   0  0  0  0  0  0
+   61.7922   30.3620    2.6747 H   0  0  0  0  0  0
+   59.5150   30.7725    3.7571 H   0  0  0  0  0  0
+   60.3826   31.7720    4.9715 H   0  0  0  0  0  0
+   61.7037   33.1772   -0.1534 H   0  0  0  0  0  0
+   62.7642   35.0332    0.9645 H   0  0  0  0  0  0
+   62.1317   32.8859    3.7347 H   0  0  0  0  0  0
+   60.6587   33.2683    5.6948 H   0  0  0  0  0  0
+   59.3573   35.2831    4.5127 H   0  0  0  0  0  0
+   60.0289   35.7175    6.1210 H   0  0  0  0  0  0
+   61.1696   37.5207    4.6227 H   0  0  0  0  0  0
+   61.2190   36.8495    2.2016 H   0  0  0  0  0  0
+   59.8561   35.8130    2.7445 H   0  0  0  0  0  0
+   63.8591   34.6394    3.5295 H   0  0  0  0  0  0
+   63.4600   36.2712    2.8934 H   0  0  0  0  0  0
+   62.9883   36.8248    6.7597 H   0  0  0  0  0  0
+   63.8224   37.5765    5.3576 H   0  0  0  0  0  0
+   64.4287   36.0291    6.0392 H   0  0  0  0  0  0
+   58.1134   32.4617    2.4208 H   0  0  0  0  0  0
+   58.7504   34.1359    2.2868 H   0  0  0  0  0  0
+   58.3678   33.4470    3.9010 H   0  0  0  0  0  0
+   62.7198   25.9745    8.8162 H   0  0  0  0  0  0
+   60.4439   25.6201    9.4397 H   0  0  0  0  0  0
+  1 18  1  0  0  0
+  1 23  1  0  0  0
+  2 13  2  0  0  0
+  3  9  2  0  0  0
+  4 30  1  0  0  0
+  4 33  1  0  0  0
+  5 28  1  0  0  0
+  5 34  1  0  0  0
+  6 26  2  0  0  0
+  7 26  1  0  0  0
+  8  9  1  0  0  0
+  8 29  1  0  0  0
+  8 35  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 36  1  0  0  0
+ 10 37  1  0  0  0
+ 11 12  1  0  0  0
+ 11 38  1  0  0  0
+ 11 39  1  0  0  0
+ 12 13  1  0  0  0
+ 12 17  1  0  0  0
+ 12 25  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+ 14 40  1  0  0  0
+ 15 16  1  0  0  0
+ 15 41  1  0  0  0
+ 16 17  1  0  0  0
+ 16 21  1  0  0  0
+ 16 22  1  0  0  0
+ 17 18  1  0  0  0
+ 17 42  1  0  0  0
+ 18 19  1  0  0  0
+ 18 43  1  0  0  0
+ 19 20  1  0  0  0
+ 19 44  1  0  0  0
+ 19 45  1  0  0  0
+ 20 21  1  0  0  0
+ 20 23  1  0  0  0
+ 20 46  1  0  0  0
+ 21 47  1  0  0  0
+ 21 48  1  0  0  0
+ 22 23  1  0  0  0
+ 22 49  1  0  0  0
+ 22 50  1  0  0  0
+ 23 24  1  0  0  0
+ 24 51  1  0  0  0
+ 24 52  1  0  0  0
+ 24 53  1  0  0  0
+ 25 54  1  0  0  0
+ 25 55  1  0  0  0
+ 25 56  1  0  0  0
+ 26 27  1  0  0  0
+ 27 28  2  0  0  0
+ 27 32  1  0  0  0
+ 28 29  1  0  0  0
+ 29 30  2  0  0  0
+ 30 31  1  0  0  0
+ 31 32  2  0  0  0
+ 31 57  1  0  0  0
+ 32 58  1  0  0  0
+M  CHG  1   7  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+117
+
+> <s_m_entry_name>
+Structure117
+
+> <s_m_Source_Path>
+/disk1/aquila/PDBbind2020/fail/3hnz
+
+> <s_m_Source_File>
+3hnz_protein.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+3hnz_protein
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_ppw_entry_id_backup>
+115
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <s_ppw_het_states>
+eJztlDtTwzAQhP+KxrVtpD2/01HRMpSMC09IRUgoTMFk8t+xTijriIKGoYqrzUa67x6aO2UuG8zz8jXW9rmxY24W6SylowSlUFaUNWVD2VJ2lKSBNJAG0kAaSANpIA2kgTSQJqQJaUKakCakCWlCmpAmpAlpldK8/u5wSNaFf4Ph03BsfOgC2P7QwmhAr3S8ImowqB9ISD1eqaMRTzQx6JUhK6PVEytKp0ZPI9RiLwYuqV8bdWL49kZDi/ODjoYW58cNTj4MPZ6o0qDB6BNDVonVSdeh1YLVQqsFq0WXBu2SQYlNDa1FWIuEPJip1HFQWBsVM5V0DNLGYccrIQ8mJn2MAf/K6rLqfNjTOTcF9IfltzQze5qneWfed4dpP38OesG8bqf93dtxvzEPxf3x8GK2x4/DPBhszONgbKbP9882RLF6dLcVcVsRtxXxryvClssmcGFFoOyX7+dW8Gd+2QqFy8bx/AUw1Lqq
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_source_file>
+../3hnz_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIMl0xW0NASF0oW0NIMl0yKVtDQEBdKFtDSDJdMykoW0NIM10pT1tDQEBIXTFbQ0BIXShbQ0BAXTIzNClbQ0BAXShbQ0gzXSkoQyg9TylbQ0hdPVtDSF00KVtDSDJdW0NIMl1DKD1PKVtOSF1jKGMoW09IXSljNUMoPU8pW08tXSljKFtPSF0pW2NIXVtjSF01
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0029
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0028
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000101379748255958
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

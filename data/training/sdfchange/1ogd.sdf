@@ -1,0 +1,85 @@
+1ogd_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 20 20  0  0  1  0            999 V2000
+   51.0970   36.4020   26.1760 C   0  0  2  0  0  0
+   51.5540   37.7740   25.7480 C   0  0  1  0  0  0
+   50.6340   38.8280   26.3390 C   0  0  1  0  0  0
+   50.4810   38.7330   27.8500 C   0  0  1  0  0  0
+   50.0230   37.3150   28.1830 C   0  0  0  0  0  0
+   49.8760   36.0550   25.5550 O   0  0  0  0  0  0
+   52.8780   37.9420   26.1990 O   0  0  0  0  0  0
+   51.0590   40.1150   25.9700 O   0  0  0  0  0  0
+   51.7110   38.9730   28.5000 O   0  0  0  0  0  0
+   50.8790   36.3050   27.6080 O   0  0  0  0  0  0
+   51.8662   35.6751   25.8760 H   0  0  0  0  0  0
+   51.5934   37.8856   24.6544 H   0  0  0  0  0  0
+   49.6410   38.7130   25.8800 H   0  0  0  0  0  0
+   49.8111   39.5173   28.2324 H   0  0  0  0  0  0
+   50.0235   37.1763   29.2742 H   0  0  0  0  0  0
+   49.0064   37.1571   27.7938 H   0  0  0  0  0  0
+   49.7970   36.0566   24.4578 H   0  0  0  0  0  0
+   53.6663   37.2543   25.8590 H   0  0  0  0  0  0
+   51.2204   40.3579   24.9094 H   0  0  0  0  0  0
+   52.2125   39.9454   28.3865 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2  7  1  0  0  0
+  2 12  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  3 13  1  0  0  0
+  4  5  1  0  0  0
+  4  9  1  0  0  0
+  4 14  1  0  0  0
+  5 10  1  0  0  0
+  5 15  1  0  0  0
+  5 16  1  0  0  0
+  6 17  1  0  0  0
+  7 18  1  0  0  0
+  8 19  1  0  0  0
+  9 20  1  0  0  0
+M  END
+> <s_m_source_file>
+../1ogd_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDQEhdMVtDQEhdKFtPSF0pW0NASF0oW09IXSlbQ0BASF0oW0NIMl1PMSlbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

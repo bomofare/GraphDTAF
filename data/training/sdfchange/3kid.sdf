@@ -1,0 +1,96 @@
+3kid_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 25 26  0  0  1  0            999 V2000
+   -0.6840  -30.6190  -12.3300 C   0  0  0  0  0  0
+   -0.8810  -34.3990   -8.7520 S   0  0  0  0  0  0
+   -0.1700  -28.9330  -10.5130 C   0  0  0  0  0  0
+   -0.9760  -36.1120  -10.7520 N   0  0  0  0  0  0
+   -1.1110  -29.6180  -11.3350 O   0  0  0  0  0  0
+   -0.7250  -28.8460   -9.1220 C   0  0  0  0  0  0
+   -0.7650  -32.0800  -11.9900 C   0  0  0  0  0  0
+   -0.7800  -32.4530  -10.6270 C   0  0  0  0  0  0
+   -0.8550  -33.8050  -10.3000 C   0  0  0  0  0  0
+   -0.9620  -36.0120   -9.3870 C   0  0  0  0  0  0
+   -0.9150  -34.8820  -11.3580 C   0  0  0  0  0  0
+   -0.9000  -34.4690  -12.7180 C   0  0  0  0  0  0
+   -0.2760  -30.2490  -13.4280 O   0  0  0  0  0  0
+   -1.0030  -37.1030   -8.5830 N   0  0  0  0  0  0
+   -0.8260  -33.0750  -13.0260 C   0  0  0  0  0  0
+    0.7802  -29.4871  -10.5034 H   0  0  0  0  0  0
+   -0.0010  -27.9223  -10.9130 H   0  0  0  0  0  0
+   -0.0092  -28.3190   -8.4740 H   0  0  0  0  0  0
+   -0.8957  -29.8600   -8.7313 H   0  0  0  0  0  0
+   -1.6770  -28.2952   -9.1409 H   0  0  0  0  0  0
+   -0.7337  -31.6954   -9.8447 H   0  0  0  0  0  0
+   -0.9445  -35.2079  -13.5181 H   0  0  0  0  0  0
+   -0.9900  -36.9814   -7.4898 H   0  0  0  0  0  0
+   -1.0493  -38.1097   -9.0239 H   0  0  0  0  0  0
+   -0.8156  -32.7595  -14.0693 H   0  0  0  0  0  0
+  1  5  1  0  0  0
+  1  7  1  0  0  0
+  1 13  2  0  0  0
+  2  9  1  0  0  0
+  2 10  1  0  0  0
+  3  5  1  0  0  0
+  3  6  1  0  0  0
+  3 16  1  0  0  0
+  3 17  1  0  0  0
+  4 10  2  0  0  0
+  4 11  1  0  0  0
+  6 18  1  0  0  0
+  6 19  1  0  0  0
+  6 20  1  0  0  0
+  7  8  2  0  0  0
+  7 15  1  0  0  0
+  8  9  1  0  0  0
+  8 21  1  0  0  0
+  9 11  2  0  0  0
+ 10 14  1  0  0  0
+ 11 12  1  0  0  0
+ 12 15  2  0  0  0
+ 12 22  1  0  0  0
+ 14 23  1  0  0  0
+ 14 24  1  0  0  0
+ 15 25  1  0  0  0
+M  END
+> <s_m_source_file>
+../3kid_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXU9DKD1PKWMoW2NIXTEpW2NIXVtjSF1jKGMxMiluYyhzMilbTkgyXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

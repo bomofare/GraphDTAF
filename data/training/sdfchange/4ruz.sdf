@@ -1,0 +1,90 @@
+4ruz_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 24 24  0  0  1  0            999 V2000
+   -2.1510    7.2420   12.9790 C   0  0  0  0  0  0
+   -2.4600    5.8620   13.5080 C   0  0  0  0  0  0
+   -3.8340    5.8460   13.8130 O   0  0  0  0  0  0
+   -4.2930    4.7080   14.4950 C   0  0  0  0  0  0
+   -5.7380    4.6560   14.8940 C   0  0  0  0  0  0
+   -6.2320    3.5870   15.5530 C   0  0  0  0  0  0
+   -5.3110    2.4440   15.8740 C   0  0  0  0  0  0
+   -5.9470    1.0690   16.7570 S   0  0  0  0  0  0
+   -5.4420    1.1680   18.1100 O   0  0  0  0  0  0
+   -7.3800    1.1120   16.8140 O   0  0  0  0  0  0
+   -5.4030   -0.2880   16.0380 N   0  0  0  0  0  0
+   -4.0040    2.4840   15.5240 C   0  0  0  0  0  0
+   -3.4670    3.6740   14.7830 C   0  0  0  0  0  0
+   -1.0828    7.3064   12.7245 H   0  0  0  0  0  0
+   -2.3906    7.9915   13.7477 H   0  0  0  0  0  0
+   -2.7545    7.4334   12.0795 H   0  0  0  0  0  0
+   -2.2204    5.1125   12.7393 H   0  0  0  0  0  0
+   -1.8565    5.6705   14.4075 H   0  0  0  0  0  0
+   -6.3957    5.4901   14.6492 H   0  0  0  0  0  0
+   -7.2810    3.5533   15.8473 H   0  0  0  0  0  0
+   -5.7890   -1.1672   16.5746 H   0  0  0  0  0  0
+   -4.3033   -0.2988   16.0597 H   0  0  0  0  0  0
+   -3.3438    1.6551   15.7793 H   0  0  0  0  0  0
+   -2.4207    3.7056   14.4792 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 14  1  0  0  0
+  1 15  1  0  0  0
+  1 16  1  0  0  0
+  2  3  1  0  0  0
+  2 17  1  0  0  0
+  2 18  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  4 13  1  0  0  0
+  5  6  1  0  0  0
+  5 19  1  0  0  0
+  6  7  2  0  0  0
+  6 20  1  0  0  0
+  7  8  1  0  0  0
+  7 12  1  0  0  0
+  8  9  2  0  0  0
+  8 10  2  0  0  0
+  8 11  1  0  0  0
+ 11 21  1  0  0  0
+ 11 22  1  0  0  0
+ 12 13  2  0  0  0
+ 12 23  1  0  0  0
+ 13 24  1  0  0  0
+M  END
+> <s_m_source_file>
+../4ruz_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXU9jMVtjSF1bY0hdYyhTKD1PKSg9TylbTkgyXSlbY0hdW2NIXTE=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0003
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0003
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

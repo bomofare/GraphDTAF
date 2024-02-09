@@ -1,0 +1,78 @@
+2wi2_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 18  0  0  1  0            999 V2000
+   61.4660   11.3450   48.3580 N   0  0  0  0  0  0
+   62.4980   10.8030   49.0480 C   0  0  0  0  0  0
+   62.2610   10.1050   50.1800 N   0  0  0  0  0  0
+   63.7640   10.9600   48.6050 N   0  0  0  0  0  0
+   64.7920   10.4200   49.2930 C   0  0  0  0  0  0
+   66.2040   10.5950   48.7980 C   0  0  0  0  0  0
+   64.5550    9.7220   50.4240 N   0  0  0  0  0  0
+   63.2900    9.5650   50.8680 C   0  0  0  0  0  0
+   62.9920    8.6900   52.2880 S   0  0  0  0  0  0
+   64.4120    7.7290   52.6940 C   0  0  0  0  0  0
+   60.4350   11.2167   48.7195 H   0  0  0  0  0  0
+   61.6589   11.9134   47.4362 H   0  0  0  0  0  0
+   66.1968   11.1872   47.8710 H   0  0  0  0  0  0
+   66.6478    9.6083   48.5994 H   0  0  0  0  0  0
+   66.7983   11.1173   49.5622 H   0  0  0  0  0  0
+   64.2188    7.1608   53.6159 H   0  0  0  0  0  0
+   65.2738    8.3951   52.8476 H   0  0  0  0  0  0
+   64.6297    7.0312   51.8720 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 11  1  0  0  0
+  1 12  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  3  8  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  6 13  1  0  0  0
+  6 14  1  0  0  0
+  6 15  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 16  1  0  0  0
+ 10 17  1  0  0  0
+ 10 18  1  0  0  0
+M  END
+> <s_m_source_file>
+../2wi2_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMl1jMW5jKFNbQ0gzXSluYyhuMSlbQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

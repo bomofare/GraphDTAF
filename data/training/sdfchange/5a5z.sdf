@@ -1,0 +1,75 @@
+5a5z_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 17  0  0  1  0            999 V2000
+   12.2740   57.2860   -5.5890 C   0  0  0  0  0  0
+   13.5340   54.5350   -7.7450 N   0  0  0  0  0  0
+   12.8730   51.0880   -7.6610 O   0  0  0  0  0  0
+   14.5020   56.1100   -4.6780 S   0  0  0  0  0  0
+   13.0710   56.0080   -5.7180 C   0  0  2  0  0  0
+   14.5190   52.1800   -8.5830 O   0  5  0  0  0  0
+   13.4940   55.8280   -7.1590 C   0  0  0  0  0  0
+   13.8000   56.7990   -7.8210 O   0  0  0  0  0  0
+   13.1780   53.3800   -6.9940 C   0  0  0  0  0  0
+   13.5420   52.1460   -7.7900 C   0  0  0  0  0  0
+   11.9642   57.4208   -4.5422 H   0  0  0  0  0  0
+   11.3824   57.2284   -6.2307 H   0  0  0  0  0  0
+   12.8954   58.1386   -5.9003 H   0  0  0  0  0  0
+   13.8458   54.4338   -8.7950 H   0  0  0  0  0  0
+   14.3846   56.2424   -3.5923 H   0  0  0  0  0  0
+   12.3542   55.1942   -5.5335 H   0  0  0  0  0  0
+   13.7241   53.3808   -6.0391 H   0  0  0  0  0  0
+   12.0958   53.3896   -6.7974 H   0  0  0  0  0  0
+  1  5  1  0  0  0
+  1 11  1  0  0  0
+  1 12  1  0  0  0
+  1 13  1  0  0  0
+  2  7  1  0  0  0
+  2  9  1  0  0  0
+  2 14  1  0  0  0
+  3 10  2  0  0  0
+  4  5  1  0  0  0
+  4 15  1  0  0  0
+  5  7  1  0  0  0
+  5 16  1  0  0  0
+  6 10  1  0  0  0
+  7  8  2  0  0  0
+  9 10  1  0  0  0
+  9 17  1  0  0  0
+  9 18  1  0  0  0
+M  CHG  1   6  -1
+M  END
+> <s_m_source_file>
+../5a5z_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0BIXShbU0hdKUMoPU8pW05IXVtDSDJdQyg9TylbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0154
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0002
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0152
+
+> <r_epik_State_Penalty>
+  0.0119
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0120899736300194
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

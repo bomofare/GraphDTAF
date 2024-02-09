@@ -1,0 +1,78 @@
+4bt4_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 17  0  0  1  0            999 V2000
+  -24.3900   30.8520   85.4200 O   0  0  0  0  0  0
+  -25.5450   29.8000   83.5620 C   0  0  0  0  0  0
+  -22.8170   29.0420   82.5070 C   0  0  0  0  0  0
+  -22.9930   30.0670   83.6370 C   0  0  1  0  0  0
+  -21.8980   29.9960   84.6080 O   0  0  0  0  0  0
+  -22.8940   31.4530   83.0200 C   0  0  0  0  0  0
+  -24.2980   29.8050   84.4320 C   0  0  1  0  0  0
+  -23.8030   31.8290   82.2190 O   0  0  0  0  0  0
+  -21.8570   32.1680   83.2320 O   0  5  0  0  0  0
+  -25.2430   30.8800   86.1139 H   0  0  0  0  0  0
+  -26.4286   29.6093   84.1888 H   0  0  0  0  0  0
+  -25.4579   29.0105   82.8010 H   0  0  0  0  0  0
+  -25.6505   30.7766   83.0669 H   0  0  0  0  0  0
+  -21.8849   29.2532   81.9624 H   0  0  0  0  0  0
+  -23.6694   29.1092   81.8149 H   0  0  0  0  0  0
+  -22.7706   28.0295   82.9344 H   0  0  0  0  0  0
+  -20.8599   30.1506   84.2786 H   0  0  0  0  0  0
+  -24.2726   28.8290   84.9387 H   0  0  0  0  0  0
+  1  7  1  0  0  0
+  1 10  1  0  0  0
+  2  7  1  0  0  0
+  2 11  1  0  0  0
+  2 12  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3 14  1  0  0  0
+  3 15  1  0  0  0
+  3 16  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  4  7  1  0  0  0
+  5 17  1  0  0  0
+  6  8  2  0  0  0
+  6  9  1  0  0  0
+  7 18  1  0  0  0
+M  CHG  1   9  -1
+M  END
+> <s_m_source_file>
+../4bt4_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDQEBIXShbQ0gzXSlbQ0BdKFtDSDNdKShbT0hdKUMoPU8pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0005
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0005
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00049715945047106
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

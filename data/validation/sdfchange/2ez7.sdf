@@ -1,0 +1,81 @@
+2ez7_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 19 19  0  0  1  0            999 V2000
+   -0.1790    2.2930   11.0110 N   0  3  0  0  0  0
+    0.2590    3.5970   11.5220 C   0  0  1  0  0  0
+    1.6920    3.8840   11.1000 C   0  0  0  0  0  0
+    2.0620    3.5830    9.9860 O   0  0  0  0  0  0
+   -0.6690    4.7030   11.0050 C   0  0  0  0  0  0
+   -2.0930    4.4050   11.3910 C   0  0  0  0  0  0
+   -2.8780    3.4860   10.8050 N   0  0  0  0  0  0
+   -2.8030    5.0020   12.3690 C   0  0  0  0  0  0
+   -4.0420    3.4900   11.3810 C   0  0  0  0  0  0
+   -4.0420    4.4210   12.3650 N   0  0  0  0  0  0
+    2.5520    4.4690   11.9460 O   0  5  0  0  0  0
+    0.4926    1.5073   11.3873 H   0  0  0  0  0  0
+   -0.1524    2.3024    9.9114 H   0  0  0  0  0  0
+   -1.2055    2.0919   11.3513 H   0  0  0  0  0  0
+    0.2083    3.5297   12.6188 H   0  0  0  0  0  0
+   -0.4331    5.6123   10.4327 H   0  0  0  0  0  0
+   -2.5706    5.7970   13.0929 H   0  0  0  0  0  0
+   -4.8824    2.8485   11.1158 H   0  0  0  0  0  0
+   -2.4890    2.8801    9.9734 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 12  1  0  0  0
+  1 13  1  0  0  0
+  1 14  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 15  1  0  0  0
+  3  4  2  0  0  0
+  3 11  1  0  0  0
+  5  6  2  0  0  0
+  5 16  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  7  9  1  0  0  0
+  7 19  1  0  0  0
+  8 10  2  0  0  0
+  8 17  1  0  0  0
+  9 10  1  0  0  0
+  9 18  1  0  0  0
+M  CHG  2   1   1  11  -1
+M  END
+> <s_m_source_file>
+../2ez7_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DKFtPSF0pW0NASF0oW05IMytdKVtDSDJdQzE9TltDSDJdTj1bQ0hdMQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.1679
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1679
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1572
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.32510251807624
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

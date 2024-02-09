@@ -1,0 +1,84 @@
+1f9g_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 19 19  0  0  1  0            999 V2000
+    9.2520  -10.8070   32.3000 C   0  0  0  0  0  0
+   10.3500   -9.7830   32.5730 C   0  0  0  0  0  0
+    9.8060   -8.5820   32.8430 C   0  0  0  0  0  0
+    8.3050   -8.7370   32.7540 C   0  0  1  0  0  0
+    7.5930   -7.6330   31.9260 C   0  0  1  0  0  0
+    6.1170   -7.6770   31.4470 C   0  0  0  0  0  0
+    9.3290  -12.0140   32.0380 O   0  5  0  0  0  0
+   11.7040   -9.9980   32.5670 O   0  0  0  0  0  0
+   10.2070   -7.6800   33.6140 O   0  0  0  0  0  0
+    8.0370  -10.1470   32.4120 O   0  0  0  0  0  0
+    7.8940   -6.3130   32.4420 O   0  0  0  0  0  0
+    6.2230   -7.0890   30.0690 O   0  0  0  0  0  0
+    7.8312   -8.5997   33.7372 H   0  0  0  0  0  0
+    8.1043   -7.8229   30.9708 H   0  0  0  0  0  0
+    5.7625   -8.7183   31.4467 H   0  0  0  0  0  0
+    5.4931   -7.0775   32.1262 H   0  0  0  0  0  0
+   12.1010  -10.9985   32.3402 H   0  0  0  0  0  0
+    8.8990   -6.0900   32.8297 H   0  0  0  0  0  0
+    5.3224   -6.9793   29.4470 H   0  0  0  0  0  0
+  1 10  1  0  0  0
+  1  7  1  0  0  0
+  1  2  2  0  0  0
+  2  8  1  0  0  0
+  2  3  1  0  0  0
+  3  9  2  0  0  0
+  3  4  1  0  0  0
+  4 10  1  0  0  0
+  4  5  1  0  0  0
+  4 13  1  0  0  0
+  5 11  1  0  0  0
+  5  6  1  0  0  0
+  5 14  1  0  0  0
+  6 12  1  0  0  0
+  6 15  1  0  0  0
+  6 16  1  0  0  0
+  8 17  1  0  0  0
+ 11 18  1  0  0  0
+ 12 19  1  0  0  0
+M  CHG  1   7  -1
+M  END
+> <s_m_source_file>
+../1f9g_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DMUMoW09IXSk9QyhbT0hdKVtDQEhdKE8xKVtDQEhdKFtPSF0pW0NIMl1bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0003
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0003
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+6.00185594307347e-05
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

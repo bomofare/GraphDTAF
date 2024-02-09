@@ -1,0 +1,110 @@
+3djx_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 33 34  0  0  1  0            999 V2000
+   30.2780   44.4680    6.9150 O   0  0  0  0  0  0
+   30.6270   44.0450    8.2880 P   0  0  0  0  0  0
+   32.0470   44.4880    8.5460 O   0  5  0  0  0  0
+   29.5690   44.4670    9.2930 O   0  5  0  0  0  0
+   30.6200   42.4180    8.3830 O   0  0  0  0  0  0
+   30.8370   41.7730    9.6460 C   0  0  0  0  0  0
+   30.7870   40.2390    9.6050 C   0  0  1  0  0  0
+   29.6540   39.7590    8.8570 O   0  0  0  0  0  0
+   32.0360   39.6140    8.9990 C   0  0  1  0  0  0
+   32.8850   39.0930   10.0230 O   0  0  0  0  0  0
+   31.5320   38.4190    8.2310 C   0  0  1  0  0  0
+   31.5570   37.2970    9.1000 O   0  0  0  0  0  0
+   30.0790   38.7310    7.9430 C   0  0  2  0  0  0
+   29.8790   39.1710    6.5640 N   0  3  0  0  0  0
+   29.7560   38.2130    5.5380 C   0  0  0  0  0  0
+   29.5500   38.5950    4.2640 N   0  0  0  0  0  0
+   29.4510   39.9020    3.9270 C   0  0  0  0  0  0
+   29.5610   40.8690    4.9160 C   0  0  0  0  0  0
+   29.7730   40.4830    6.2350 C   0  0  0  0  0  0
+   29.8730   37.0180    5.8190 O   0  0  0  0  0  0
+   29.2410   40.2600    2.6340 N   0  0  0  0  0  0
+   31.8301   42.0468   10.0316 H   0  0  0  0  0  0
+   30.0648   42.0955   10.3599 H   0  0  0  0  0  0
+   30.6558   39.8998   10.6431 H   0  0  0  0  0  0
+   32.6356   40.3376    8.4273 H   0  0  0  0  0  0
+   33.3813   39.7772   10.7269 H   0  0  0  0  0  0
+   32.1371   38.1669    7.3476 H   0  0  0  0  0  0
+   32.5189   36.8903    9.4455 H   0  0  0  0  0  0
+   29.4434   37.8436    8.0789 H   0  0  0  0  0  0
+   29.4817   41.9256    4.6604 H   0  0  0  0  0  0
+   29.8549   41.2424    7.0127 H   0  0  0  0  0  0
+   29.1550   39.4869    1.8563 H   0  0  0  0  0  0
+   29.1569   41.3231    2.3644 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  5  6  1  0  0  0
+  6  7  1  0  0  0
+  6 22  1  0  0  0
+  6 23  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  7 24  1  0  0  0
+  8 13  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+  9 25  1  0  0  0
+ 10 26  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 11 27  1  0  0  0
+ 12 28  1  0  0  0
+ 13 14  1  0  0  0
+ 13 29  1  0  0  0
+ 14 15  1  0  0  0
+ 14 19  2  0  0  0
+ 15 16  1  0  0  0
+ 15 20  2  0  0  0
+ 16 17  1  0  0  0
+ 17 18  2  0  0  0
+ 17 21  1  0  0  0
+ 18 19  1  0  0  0
+ 18 30  1  0  0  0
+ 19 31  1  0  0  0
+ 21 32  1  0  0  0
+ 21 33  1  0  0  0
+M  CHG  3   3  -1   4  -1  14   1
+M  END
+> <s_m_source_file>
+../3djx_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1QKFtPSF0pKFtPSF0pT1tDSDJdW0NASF0xT1tDQEhdKFtDQEhdKFtPSF0pW0NAQEhdMVtPSF0pbjJjKD1PKVtuSF0vYyg9TlxbSF0pW2NIXVtjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.1024
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1017
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0007
+
+> <r_epik_State_Penalty>
+  0.0917
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.193417845348707
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis. This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

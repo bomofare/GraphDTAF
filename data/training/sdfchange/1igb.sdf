@@ -1,0 +1,95 @@
+1igb_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 26  0  0  1  0            999 V2000
+   32.0400   -1.0400   41.7290 C   0  0  0  0  0  0
+   31.9490    0.1310   40.9620 C   0  0  0  0  0  0
+   30.9780    1.0910   41.2960 C   0  0  0  0  0  0
+   30.1200    0.8810   42.3950 C   0  0  0  0  0  0
+   28.6600    2.2710   42.8460 I   0  0  0  0  0  0
+   30.2280   -0.2730   43.1650 C   0  0  0  0  0  0
+   31.1920   -1.2360   42.8280 C   0  0  0  0  0  0
+   33.0340   -2.0850   41.3560 C   0  0  0  0  0  0
+   34.3980   -1.7800   41.8770 C   0  0  1  0  0  0
+   34.4790   -2.2080   43.2730 N   0  3  0  0  0  0
+   35.4320   -2.5040   41.0110 C   0  0  0  0  0  0
+   35.7660   -3.7210   41.3970 O   0  0  0  0  0  0
+   35.9410   -1.9720   39.9310 N   0  0  0  0  0  0
+   36.4420   -2.9070   38.9770 O   0  0  0  0  0  0
+   32.6212    0.2941   40.1196 H   0  0  0  0  0  0
+   30.8880    2.0012   40.7031 H   0  0  0  0  0  0
+   29.5709   -0.4275   44.0208 H   0  0  0  0  0  0
+   31.2820   -2.1432   43.4254 H   0  0  0  0  0  0
+   32.7199   -3.0544   41.7703 H   0  0  0  0  0  0
+   33.0961   -2.1575   40.2602 H   0  0  0  0  0  0
+   34.5833   -0.6957   41.8703 H   0  0  0  0  0  0
+   33.7246   -1.6699   43.8658 H   0  0  0  0  0  0
+   35.4817   -1.9859   43.6670 H   0  0  0  0  0  0
+   34.2915   -3.2901   43.3362 H   0  0  0  0  0  0
+   36.0012   -0.8927   39.7273 H   0  0  0  0  0  0
+   36.8885   -2.5486   38.0377 H   0  0  0  0  0  0
+  1  8  1  0  0  0
+  1  7  2  0  0  0
+  1  2  1  0  0  0
+  2  3  2  0  0  0
+  2 15  1  0  0  0
+  3  4  1  0  0  0
+  3 16  1  0  0  0
+  4  6  2  0  0  0
+  4  5  1  0  0  0
+  6  7  1  0  0  0
+  6 17  1  0  0  0
+  7 18  1  0  0  0
+  8  9  1  0  0  0
+  8 19  1  0  0  0
+  8 20  1  0  0  0
+  9 11  1  0  0  0
+  9 10  1  0  0  0
+  9 21  1  0  0  0
+ 10 22  1  0  0  0
+ 10 23  1  0  0  0
+ 10 24  1  0  0  0
+ 11 13  1  0  0  0
+ 11 12  2  0  0  0
+ 13 14  1  0  0  0
+ 13 25  1  0  0  0
+ 14 26  1  0  0  0
+M  CHG  1  10   1
+M  END
+> <s_m_source_file>
+../1igb_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtOSF1DKD1PKVtDQEhdKFtOSDMrXSlbQ0gyXWMxW2NIXVtjSF1jKEkpW2NIXVtjSF0x
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.3429
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.2854
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0575
+
+> <r_epik_State_Penalty>
+  0.2782
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.563587767388294
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

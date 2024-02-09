@@ -1,0 +1,89 @@
+3grj_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 21 22  0  0  1  0            999 V2000
+  -31.7210  -28.5470   12.2120 O   0  0  0  0  0  0
+  -31.0550  -27.9640   11.2900 C   0  0  0  0  0  0
+  -30.2490  -28.5620   10.4780 O   0  5  0  0  0  0
+  -31.2830  -26.5040   11.1720 C   0  0  0  0  0  0
+  -30.3850  -25.5130   10.7290 C   0  0  0  0  0  0
+  -31.0630  -24.3000   10.8000 N   0  3  0  0  0  0
+  -32.3150  -24.5870   11.2530 C   0  0  0  0  0  0
+  -32.4790  -25.9280   11.5040 N   0  0  0  0  0  0
+  -33.2590  -23.4260   11.3960 C   0  0  0  0  0  0
+  -33.6470  -22.7030   10.2730 C   0  0  0  0  0  0
+  -34.5130  -21.6190   10.3800 C   0  0  0  0  0  0
+  -35.0270  -21.2680   11.6170 C   0  0  0  0  0  0
+  -34.6510  -22.0060   12.7510 C   0  0  0  0  0  0
+  -33.7650  -23.0800   12.6400 C   0  0  0  0  0  0
+  -29.3683  -25.7925   10.4157 H   0  0  0  0  0  0
+  -33.2664  -22.9902    9.2928 H   0  0  0  0  0  0
+  -34.7860  -21.0478    9.4927 H   0  0  0  0  0  0
+  -35.7158  -20.4283   11.7094 H   0  0  0  0  0  0
+  -35.0546  -21.7380   13.7274 H   0  0  0  0  0  0
+  -33.4728  -23.6432   13.5263 H   0  0  0  0  0  0
+  -30.5545  -23.3680   10.5121 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  4  8  1  0  0  0
+  5  6  1  0  0  0
+  5 15  1  0  0  0
+  6  7  1  0  0  0
+  6 21  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  9 10  2  0  0  0
+  9 14  1  0  0  0
+ 10 11  1  0  0  0
+ 10 16  1  0  0  0
+ 11 12  2  0  0  0
+ 11 17  1  0  0  0
+ 12 13  1  0  0  0
+ 12 18  1  0  0  0
+ 13 14  2  0  0  0
+ 13 19  1  0  0  0
+ 14 20  1  0  0  0
+M  CHG  2   3  -1   6   1
+M  END
+> <s_m_source_file>
+../3grj_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DKFtPSF0pYzFbY0hdW25IXWMobjEpLWMyW2NIXVtjSF1bY0hdW2NIXVtjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0006
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0006
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000627973328870276
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

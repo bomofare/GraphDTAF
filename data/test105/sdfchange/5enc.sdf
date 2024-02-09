@@ -1,0 +1,86 @@
+5enc_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 22 22  0  0  1  0            999 V2000
+  -26.7760    1.3340   -6.7740 C   0  0  0  0  0  0
+  -27.5910    0.6610   -5.8740 C   0  0  0  0  0  0
+  -28.7310    1.2840   -5.3940 C   0  0  0  0  0  0
+  -29.0410    2.5720   -5.7960 C   0  0  0  0  0  0
+  -28.2030    3.2250   -6.6900 C   0  0  0  0  0  0
+  -23.6850    3.3430   -9.5760 O   0  0  0  0  0  0
+  -23.7410    3.6760   -8.4060 C   0  0  0  0  0  0
+  -22.5350    4.1790   -7.6700 C   0  0  0  0  0  0
+  -24.8770    3.6100   -7.7080 N   0  0  0  0  0  0
+  -26.1900    3.3130   -8.2710 C   0  0  0  0  0  0
+  -27.0550    2.6250   -7.2360 C   0  0  0  0  0  0
+  -28.5450    4.8810   -7.0760 Cl  0  0  0  0  0  0
+  -25.3210    0.5620   -7.3160 Cl  0  0  0  0  0  0
+  -27.3363   -0.3476   -5.5484 H   0  0  0  0  0  0
+  -29.3856    0.7591   -4.6982 H   0  0  0  0  0  0
+  -29.9335    3.0682   -5.4147 H   0  0  0  0  0  0
+  -21.6686    4.1867   -8.3478 H   0  0  0  0  0  0
+  -22.3258    3.5194   -6.8149 H   0  0  0  0  0  0
+  -22.7261    5.1998   -7.3075 H   0  0  0  0  0  0
+  -24.7712    3.8004   -6.6298 H   0  0  0  0  0  0
+  -26.6755    4.2494   -8.5830 H   0  0  0  0  0  0
+  -26.0743    2.6519   -9.1425 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 11  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2 14  1  0  0  0
+  3  4  2  0  0  0
+  3 15  1  0  0  0
+  4  5  1  0  0  0
+  4 16  1  0  0  0
+  5 11  2  0  0  0
+  5 12  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  8 17  1  0  0  0
+  8 18  1  0  0  0
+  8 19  1  0  0  0
+  9 10  1  0  0  0
+  9 20  1  0  0  0
+ 10 11  1  0  0  0
+ 10 21  1  0  0  0
+ 10 22  1  0  0  0
+M  END
+> <s_m_source_file>
+../5enc_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Q2xjMVtjSF1bY0hdW2NIXWMoQ2wpYzFbQ0gyXVtOSF1DKD1PKVtDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

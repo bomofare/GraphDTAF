@@ -1,0 +1,105 @@
+1ghz_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 29 31  0  0  1  0            999 V2000
+   45.5210   19.3220   52.9710 C   0  0  0  0  0  0
+   44.9600   18.9450   51.7100 C   0  0  0  0  0  0
+   44.6630   19.8760   50.7100 C   0  0  0  0  0  0
+   44.9430   21.1740   51.0030 C   0  0  0  0  0  0
+   45.4780   21.5930   52.1780 C   0  0  0  0  0  0
+   45.7850   20.7080   53.2020 C   0  0  0  0  0  0
+   45.8050   18.3410   53.9180 C   0  0  0  0  0  0
+   46.5150   18.6530   54.9580 N   0  0  0  0  0  0
+   45.3730   17.1190   53.7560 N   0  0  0  0  0  0
+   44.7760   22.2190   50.2680 N   0  0  0  0  0  0
+   45.6450   22.9130   52.2160 N   0  0  0  0  0  0
+   45.1820   23.2150   50.9930 C   0  0  3  0  0  0
+   45.2120   24.5160   50.4390 C   0  0  0  0  0  0
+   45.9180   25.5190   51.0800 C   0  0  0  0  0  0
+   45.9540   26.7840   50.5520 C   0  0  0  0  0  0
+   45.3000   27.0960   49.3770 C   0  0  0  0  0  0
+   44.6330   26.1090   48.7910 N   0  0  0  0  0  0
+   44.5300   24.8470   49.2100 C   0  0  0  0  0  0
+   43.8810   24.0230   48.5860 O   0  0  0  0  0  0
+   44.7628   17.8759   51.5422 H   0  0  0  0  0  0
+   44.2295   19.5397   49.7566 H   0  0  0  0  0  0
+   46.2143   21.0337   54.1610 H   0  0  0  0  0  0
+   46.7563   17.8866   55.7093 H   0  0  0  0  0  0
+   44.7714   16.8610   52.8720 H   0  0  0  0  0  0
+   45.6108   16.3479   54.5036 H   0  0  0  0  0  0
+   46.4474   25.3026   52.0079 H   0  0  0  0  0  0
+   46.5125   27.5619   51.0726 H   0  0  0  0  0  0
+   45.3297   28.0996   48.9528 H   0  0  0  0  0  0
+   44.0866   26.2945   47.8545 H   0  0  0  0  0  0
+  1  7  1  0  0  0
+  1  6  2  0  0  0
+  1  2  1  0  0  0
+  2  3  2  0  0  0
+  2 20  1  0  0  0
+  3  4  1  0  0  0
+  3 21  1  0  0  0
+  4 10  2  0  0  0
+  4  5  1  0  0  0
+  5 11  2  0  0  0
+  5  6  1  0  0  0
+  6 22  1  0  0  0
+  7  9  1  0  0  0
+  7  8  2  0  0  0
+  8 23  1  0  0  0
+  9 24  1  0  0  0
+  9 25  1  0  0  0
+ 10 12  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 13 18  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 14 26  1  0  0  0
+ 15 16  2  0  0  0
+ 15 27  1  0  0  0
+ 16 17  1  0  0  0
+ 16 28  1  0  0  0
+ 17 18  1  0  0  0
+ 17 29  1  0  0  0
+ 18 19  2  0  0  0
+M  END
+> <s_m_source_file>
+../1ghz_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0hdXE49QyhbTkgyXSlcYyhbY0hdW2NIXTEpW2NIXWMoYzE9Mik9TltDSF0oTjIpYzNbY0hdW2NIXVtjSF1bbkhdYzM9Tw==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0026
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0024
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00240196107943443
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

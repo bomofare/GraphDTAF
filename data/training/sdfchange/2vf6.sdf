@@ -1,0 +1,147 @@
+2vf6_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 29 30  0  0  1  0            999 V2000
+   14.1400  -34.4490   26.7590 O   0  0  0  0  0  0
+   15.3880  -34.3620   26.0790 C   0  0  1  0  0  0
+   15.3680  -33.1610   25.1570 C   0  0  0  0  0  0
+   15.0040  -31.8640   25.8060 C   0  0  0  0  0  0
+   14.2950  -31.6150   26.9740 C   0  0  0  0  0  0
+   14.2430  -30.2240   27.1530 N   0  0  0  0  0  0
+   14.9230  -29.6320   26.0900 C   0  0  0  0  0  0
+   15.1700  -28.2900   25.7820 C   0  0  0  0  0  0
+   15.8920  -27.9960   24.6150 C   0  0  0  0  0  0
+   16.3640  -29.0380   23.8050 C   0  0  0  0  0  0
+   16.0970  -30.3780   24.1250 C   0  0  0  0  0  0
+   15.3670  -30.6340   25.2590 N   0  0  0  0  0  0
+   16.7490  -34.2120   27.2860 P   0  0  0  0  0  0
+   18.0550  -34.0480   26.5420 O   0  5  0  0  0  0
+   16.5450  -33.0180   28.1820 O   0  0  0  0  0  0
+   16.7950  -35.4650   28.1430 O   0  0  0  0  0  0
+   15.6400  -35.8640   25.0890 P   0  0  0  0  0  0
+   17.0070  -35.8070   24.4160 O   0  5  0  0  0  0
+   14.6660  -35.8620   23.9620 O   0  0  0  0  0  0
+   15.5920  -37.0550   26.0220 O   0  5  0  0  0  0
+   13.8111  -33.6273   27.4122 H   0  0  0  0  0  0
+   16.3660  -33.0205   24.7162 H   0  0  0  0  0  0
+   14.6331  -33.3263   24.3554 H   0  0  0  0  0  0
+   13.9034  -32.4377   27.5538 H   0  0  0  0  0  0
+   14.8077  -27.5104   26.4357 H   0  0  0  0  0  0
+   16.0830  -26.9685   24.3426 H   0  0  0  0  0  0
+   16.9420  -28.8149   22.9204 H   0  0  0  0  0  0
+   16.4628  -31.1688   23.4869 H   0  0  0  0  0  0
+   16.9381  -36.4486   27.6719 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 21  1  0  0  0
+  2  3  1  0  0  0
+  2 13  1  0  0  0
+  2 17  1  0  0  0
+  3  4  1  0  0  0
+  3 22  1  0  0  0
+  3 23  1  0  0  0
+  4  5  2  0  0  0
+  4 12  1  0  0  0
+  5  6  1  0  0  0
+  5 24  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  7 12  1  0  0  0
+  8  9  2  0  0  0
+  8 25  1  0  0  0
+  9 10  1  0  0  0
+  9 26  1  0  0  0
+ 10 11  2  0  0  0
+ 10 27  1  0  0  0
+ 11 12  1  0  0  0
+ 11 28  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  2  0  0  0
+ 13 16  1  0  0  0
+ 16 29  1  0  0  0
+ 17 18  1  0  0  0
+ 17 19  2  0  0  0
+ 17 20  1  0  0  0
+M  CHG  3  14  -1  18  -1  20  -1
+M  END
+> <s_m_entry_id>
+80
+
+> <s_m_entry_name>
+2vf6_protein.1 2vf6_ligand.1_mol5
+
+> <s_m_Source_Path>
+/disk1/aquila/PDBbind2020/fail/2vf6
+
+> <s_m_Source_File>
+2vf6_protein.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+2vf6_protein
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_ppw_entry_id_backup>
+74
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <s_ppw_het_states>
+eJztmMFPwjAUxv+VZldZ7Wv71g5unrwaj4YDQU8ieJgHQ/jf7TrkG2QENRk4LQnJl2/je+3jl+1t64yysXgIH7bsRkJPpyPxEL5KqpFYb7Yiu69m1ZN4fVrOFtX7uDaVeJ7PFtcvq8VE3OY3q+WjmK/ellU4OBF3Y3Glszor08j3feQb5Jd95NtdfqH6yGfkUx/5BfJ1H/lul19ySKvjgywgHaSHLD8lKwVJkBrSQFpIhiwgHaSHRDVCNUI1QjVCNYrVar3dXbMxwh6b7bWNuII9oy5D6EXTBkJHmmbolhE3RGhU0yNCu5pOaTSt6RftGQUMHQ2Dn5hoWJxho8E4gw8zXDT8oVHiJ9EgrJTiOkgfGljH1ojrCA45qUsONddZvc8AVnDIqyJgmpPaHjxkNZxjjsNqI6wqi//i74Q0/+zoPqV5q2stTHd24vRinEoip1uYKunZ+EApS++172BUkj6BaG4GyGj3lfQIojklRn8Bo+4njPJwGT1yHe2+3SdGE6PnH0i/d6tPjCZG281P8+i/Z9Qax83jPEsuNHdRae2pCVQPkMo0gQ6BSvcTKnm4VKaZM1F5QSrTlJmo/JvPPmmsPCeUJZm9t/HSWVO/jGepfGG7EC3pC0PmdPMByp44yQ==
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_source_file>
+../2vf6_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W08tXVAoPU8pKFtPSF0pW0NAXShbT0hdKShQKFtPLV0pKD1PKVtPLV0pW0NIMl1jKFtjSF1uMSluKGMxMilbY0hdW2NIXVtjSF1bY0hdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.4275
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.4274
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.2719
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.699332992222011
+
+> <i_epik_Tot_Q>
+-3
+
+> <i_epik_Tot_abs_Q>
+3
+
+$$$$

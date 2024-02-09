@@ -1,0 +1,104 @@
+4wm9_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 29 29  0  0  1  0            999 V2000
+   29.7880   -1.2800   14.6990 O   0  0  0  0  0  0
+   29.7200   -0.1800   13.8710 C   0  0  0  0  0  0
+   30.5750    0.8060   13.8150 N   0  0  0  0  0  0
+   30.4230    1.9530   12.8650 C   0  0  0  0  0  0
+   31.7560    0.8940   14.7010 C   0  0  2  0  0  0
+   31.4290    1.8250   15.8510 C   0  0  0  0  0  0
+   30.3180    2.3180   16.0070 O   0  0  0  0  0  0
+   32.3790    2.1000   16.7070 N   0  0  0  0  0  0
+   33.0060    1.3700   13.9690 C   0  0  0  0  0  0
+   32.8760    2.1790   12.9060 C   0  0  0  0  0  0
+   31.6650    2.1090   11.9840 C   0  0  1  0  0  0
+   31.7900    1.0630   10.9740 N   0  0  1  0  0  0
+   31.7590   -0.3090   11.3880 O   0  0  0  0  0  0
+   32.0580   -1.7860   10.8090 S   0  0  0  0  0  0
+   31.8900   -2.6590   11.9580 O   0  0  0  0  0  0
+   33.4300   -2.0570   10.3420 O   0  5  0  0  0  0
+   31.1330   -2.1520    9.7290 O   0  0  0  0  0  0
+   28.8816   -0.0725   13.1670 H   0  0  0  0  0  0
+   29.5518    1.7789   12.2163 H   0  0  0  0  0  0
+   30.2766    2.8832   13.4336 H   0  0  0  0  0  0
+   31.9554   -0.1255   15.0627 H   0  0  0  0  0  0
+   33.3801    1.6631   16.5768 H   0  0  0  0  0  0
+   32.1769    2.7682   17.5571 H   0  0  0  0  0  0
+   33.6458    1.9333   14.6642 H   0  0  0  0  0  0
+   33.5591    0.5005   13.5843 H   0  0  0  0  0  0
+   32.8703    3.2267   13.2411 H   0  0  0  0  0  0
+   33.7191    2.0187   12.2179 H   0  0  0  0  0  0
+   31.5904    3.0079   11.3543 H   0  0  0  0  0  0
+   30.9715    1.1758   10.3758 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2 18  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  4 11  1  0  0  0
+  4 19  1  0  0  0
+  4 20  1  0  0  0
+  5  6  1  0  0  0
+  5  9  1  0  0  0
+  5 21  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8 22  1  0  0  0
+  8 23  1  0  0  0
+  9 10  1  0  0  0
+  9 24  1  0  0  0
+  9 25  1  0  0  0
+ 10 11  1  0  0  0
+ 10 26  1  0  0  0
+ 10 27  1  0  0  0
+ 11 12  1  0  0  0
+ 11 28  1  0  0  0
+ 12 13  1  0  0  0
+ 12 29  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  2  0  0  0
+ 14 16  1  0  0  0
+ 14 17  2  0  0  0
+M  CHG  1  16  -1
+M  END
+> <s_m_source_file>
+../4wm9_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1bQ0hdTjFbQ0gyXVtDQEhdKFtOSDIrXU9TKD1PKSg9TylbT0hdKVtDSDJdW0NIMl1bQ0BIXTFDKD1PKVtOSDJd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+3.53992251514839e-10
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

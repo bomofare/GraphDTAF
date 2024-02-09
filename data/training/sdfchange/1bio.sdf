@@ -1,0 +1,78 @@
+1bio_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 18  0  0  1  0            999 V2000
+    5.7960    6.1640    1.3760 C   0  0  0  0  0  0
+    4.9310    7.2920    1.3110 C   0  0  0  0  0  0
+    3.5380    7.1320    1.5370 C   0  0  0  0  0  0
+    3.0040    5.8500    1.8220 C   0  0  0  0  0  0
+    5.2520    4.8810    1.6710 C   0  0  0  0  0  0
+    3.8540    4.7270    1.8880 C   0  0  0  0  0  0
+    5.4260    8.5250    1.0370 N   0  0  0  0  0  0
+    7.3320    6.3120    1.1450 C   0  0  0  0  0  0
+    8.0200    7.4990    0.7780 O   0  0  0  0  0  0
+    2.8773    7.9977    1.4912 H   0  0  0  0  0  0
+    1.9336    5.7322    1.9905 H   0  0  0  0  0  0
+    5.9093    4.0135    1.7308 H   0  0  0  0  0  0
+    3.4408    3.7420    2.1050 H   0  0  0  0  0  0
+    6.5035    8.6583    0.8606 H   0  0  0  0  0  0
+    4.7498    9.3914    0.9912 H   0  0  0  0  0  0
+    7.8687    6.0482    2.0682 H   0  0  0  0  0  0
+    7.6471    5.6402    0.3330 H   0  0  0  0  0  0
+    9.1115    7.4825    0.6425 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  7  1  0  0  0
+  3  4  2  0  0  0
+  3 10  1  0  0  0
+  4  6  1  0  0  0
+  4 11  1  0  0  0
+  5  6  2  0  0  0
+  5 12  1  0  0  0
+  6 13  1  0  0  0
+  7 14  1  0  0  0
+  7 15  1  0  0  0
+  8  9  1  0  0  0
+  8 16  1  0  0  0
+  8 17  1  0  0  0
+  9 18  1  0  0  0
+M  END
+> <s_m_source_file>
+../1bio_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDSDJdYzFjKFtOSDJdKVtjSF1bY0hdW2NIXVtjSF0x
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0020
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0020
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

@@ -1,0 +1,87 @@
+1w3j_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 21 21  0  0  1  0            999 V2000
+   -3.1290    9.5980    8.7350 C   0  0  0  0  0  0
+   -2.1270   10.7340    8.9770 C   0  0  2  0  0  0
+   -0.9830   10.7330    7.9360 C   0  0  2  0  0  0
+   -0.0710   11.9460    8.2280 C   0  0  1  0  0  0
+    0.5250   11.8380    9.6390 C   0  0  0  0  0  0
+   -2.5250    8.3170    8.9190 O   0  0  0  0  0  0
+   -1.5250   10.5350   10.2500 O   0  0  0  0  0  0
+   -1.4550   10.7730    6.6030 O   0  0  0  0  0  0
+    0.9780   12.1350    7.2910 O   0  0  0  0  0  0
+   -0.5220   11.5910   10.6400 N   0  0  1  0  0  0
+   -3.9671    9.6916    9.4413 H   0  0  0  0  0  0
+   -3.5095    9.6579    7.7046 H   0  0  0  0  0  0
+   -2.6622   11.6950    8.9842 H   0  0  0  0  0  0
+   -0.4445    9.7738    7.9360 H   0  0  0  0  0  0
+   -0.6635   12.8610    8.0809 H   0  0  0  0  0  0
+    1.2441   11.0062    9.6706 H   0  0  0  0  0  0
+    1.0389   12.7769    9.8928 H   0  0  0  0  0  0
+   -3.1208    7.4029    8.7797 H   0  0  0  0  0  0
+   -2.1195    9.9793    6.2308 H   0  0  0  0  0  0
+    0.7475   12.2350    6.2201 H   0  0  0  0  0  0
+   -0.0550   11.2611   11.4847 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1 11  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  2  7  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  4  9  1  0  0  0
+  4 15  1  0  0  0
+  5 10  1  0  0  0
+  5 16  1  0  0  0
+  5 17  1  0  0  0
+  6 18  1  0  0  0
+  7 10  1  0  0  0
+  8 19  1  0  0  0
+  9 20  1  0  0  0
+ 10 21  1  0  0  0
+M  END
+> <s_m_source_file>
+../1w3j_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDSDJdW0NAQEhdMVtDQEBIXShbT0hdKVtDQEhdKFtPSF0pW0NIMl1bTkgyK11PMQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0007
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0007
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

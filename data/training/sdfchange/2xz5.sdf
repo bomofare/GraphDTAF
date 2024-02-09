@@ -1,0 +1,97 @@
+2xz5_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 25  0  0  1  0            999 V2000
+  -14.1190  -11.2150   36.2710 N   0  3  0  0  0  0
+  -12.7310  -11.9430   35.9630 C   0  0  0  0  0  0
+  -11.7370  -11.7130   37.1520 C   0  0  0  0  0  0
+  -12.1060  -10.9070   38.5660 O   0  0  0  0  0  0
+  -11.5480  -10.5960   39.8190 C   0  0  0  0  0  0
+  -10.4250  -10.0790   39.6430 O   0  0  0  0  0  0
+  -12.3040  -10.8380   41.1740 C   0  0  0  0  0  0
+  -14.9400  -11.3870   37.5970 C   0  0  0  0  0  0
+  -13.8990   -9.8940   35.9380 C   0  0  0  0  0  0
+  -15.3520  -11.4060   35.5500 C   0  0  0  0  0  0
+  -12.9032  -13.0220   35.8359 H   0  0  0  0  0  0
+  -12.2970  -11.5298   35.0405 H   0  0  0  0  0  0
+  -11.3995  -12.6850   37.5410 H   0  0  0  0  0  0
+  -10.8685  -11.1382   36.7979 H   0  0  0  0  0  0
+  -13.2744  -11.3151   40.9723 H   0  0  0  0  0  0
+  -12.4670   -9.8750   41.6800 H   0  0  0  0  0  0
+  -11.7001  -11.4934   41.8188 H   0  0  0  0  0  0
+  -14.2652  -11.2941   38.4607 H   0  0  0  0  0  0
+  -15.4152  -12.3790   37.6080 H   0  0  0  0  0  0
+  -15.7152  -10.6085   37.6519 H   0  0  0  0  0  0
+  -12.9678   -9.5471   36.4098 H   0  0  0  0  0  0
+  -14.7405   -9.2812   36.2934 H   0  0  0  0  0  0
+  -13.8133   -9.8007   34.8453 H   0  0  0  0  0  0
+  -15.7050  -12.4378   35.6941 H   0  0  0  0  0  0
+  -15.1825  -11.2227   34.4787 H   0  0  0  0  0  0
+  -16.1097  -10.7032   35.9268 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  8  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2 11  1  0  0  0
+  2 12  1  0  0  0
+  3  4  1  0  0  0
+  3 13  1  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  7 15  1  0  0  0
+  7 16  1  0  0  0
+  7 17  1  0  0  0
+  8 18  1  0  0  0
+  8 19  1  0  0  0
+  8 20  1  0  0  0
+  9 21  1  0  0  0
+  9 22  1  0  0  0
+  9 23  1  0  0  0
+ 10 24  1  0  0  0
+ 10 25  1  0  0  0
+ 10 26  1  0  0  0
+M  CHG  1   1   1
+M  END
+> <s_m_source_file>
+../2xz5_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bTitdKFtDSDNdKShbQ0gzXSlbQ0gyXVtDSDJdT0MoPU8pW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

@@ -1,0 +1,79 @@
+3kpu_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 19  0  0  1  0            999 V2000
+   26.9670   45.3550   14.0670 O   0  0  0  0  0  0
+   28.1580   46.2410   15.9680 C   0  0  0  0  0  0
+   28.8340   46.0330   17.1960 C   0  0  0  0  0  0
+   27.6540   45.1590   15.2670 C   0  0  0  0  0  0
+   27.4470   41.4590   15.5190 C   0  0  0  0  0  0
+   28.9900   44.7450   17.6850 N   0  0  0  0  0  0
+   27.2890   42.7680   15.0160 C   0  0  0  0  0  0
+   28.6440   42.3440   17.4790 C   0  0  0  0  0  0
+   28.1230   41.2470   16.7480 C   0  0  0  0  0  0
+   27.8100   43.8660   15.7570 C   0  0  0  0  0  0
+   28.4810   43.6560   16.9800 C   0  0  0  0  0  0
+   28.0352   47.2508   15.5763 H   0  0  0  0  0  0
+   29.2296   46.8819   17.7537 H   0  0  0  0  0  0
+   27.0493   40.6102   14.9627 H   0  0  0  0  0  0
+   26.7736   42.9364   14.0704 H   0  0  0  0  0  0
+   29.1673   42.1766   18.4204 H   0  0  0  0  0  0
+   28.2425   40.2341   17.1326 H   0  0  0  0  0  0
+   29.5183   44.5777   18.6352 H   0  0  0  0  0  0
+  1  4  2  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  2 12  1  0  0  0
+  3  6  1  0  0  0
+  3 13  1  0  0  0
+  4 10  1  0  0  0
+  5  7  1  0  0  0
+  5  9  2  0  0  0
+  5 14  1  0  0  0
+  6 11  1  0  0  0
+  6 18  1  0  0  0
+  7 10  2  0  0  0
+  7 15  1  0  0  0
+  8  9  1  0  0  0
+  8 11  2  0  0  0
+  8 16  1  0  0  0
+  9 17  1  0  0  0
+ 10 11  1  0  0  0
+M  END
+> <s_m_source_file>
+../3kpu_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXWMxW2NIXVtjSF1uYyhjMTIpW2NIXVtjSF1bY0hdW2NIXTI=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+7.82495628134119e-05
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

@@ -1,0 +1,65 @@
+4lpf_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 11 11  0  0  1  0            999 V2000
+  -18.3020   -7.7910   39.6310 N   0  3  0  0  0  0
+  -19.6900   -8.0090   39.7300 N   0  3  0  0  0  0
+  -20.1880   -7.1180   38.8660 C   0  0  3  0  0  0
+  -19.2730   -6.3640   38.2360 N   0  0  0  0  0  0
+  -18.0850   -6.7940   38.7300 C   0  0  0  0  0  0
+  -21.5170   -6.9950   38.6450 N   0  0  0  0  0  0
+  -17.1470   -6.3351   38.3842 H   0  0  0  0  0  0
+  -22.2265   -7.6373   39.1873 H   0  0  0  0  0  0
+  -21.8881   -6.2527   37.9230 H   0  0  0  0  0  0
+  -20.0786   -8.7775   40.4143 H   0  0  0  0  0  0
+  -17.6064   -8.3923   40.2348 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2 10  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  4  5  2  0  0  0
+  5  7  1  0  0  0
+  6  8  1  0  0  0
+  6  9  1  0  0  0
+M  CHG  2   1   1   2   1
+M  END
+> <s_m_source_file>
+../4lpf_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+TjE9W0NIXU49TltDSF0xW05IMl0=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.2779
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.2777
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+  0.3192
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.596883050781958
+
+> <i_epik_Tot_Q>
+2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

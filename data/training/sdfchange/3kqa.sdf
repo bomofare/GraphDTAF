@@ -1,0 +1,233 @@
+3kqa_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 17  0  0  1  0            999 V2000
+  -43.4010   -8.2550 -134.6360 C   0  0  0  0  0  0
+  -43.7990   -9.7040 -134.3230 C   0  0  1  0  0  0
+  -44.8930  -10.1930 -135.2480 C   0  0  0  0  0  0
+  -45.9720   -9.2190 -135.6510 C   0  0  0  0  0  0
+  -45.8640   -7.7760 -135.1140 C   0  0  0  0  0  0
+  -44.6460   -7.3180 -134.6190 C   0  0  0  0  0  0
+  -47.0010   -9.6500 -136.4780 C   0  0  0  0  0  0
+  -46.9740   -6.9670 -135.1430 O   0  5  0  0  0  0
+  -42.6690  -10.5420 -134.3950 O   0  0  0  0  0  0
+  -44.9050  -11.4800 -135.6850 O   0  0  0  0  0  0
+  -44.5360   -6.0460 -134.1380 O   0  0  0  0  0  0
+  -42.9956   -8.2078 -135.6478 H   0  0  0  0  0  0
+  -44.1436   -9.8009 -133.2829 H   0  0  0  0  0  0
+  -46.8545  -10.7125 -136.7222 H   0  0  0  0  0  0
+  -46.9994   -9.0572 -137.4046 H   0  0  0  0  0  0
+  -47.9641   -9.5217 -135.9622 H   0  0  0  0  0  0
+  -41.7824  -10.3237 -133.7816 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3 10  2  0  0  0
+  4  5  2  0  0  0
+  4  7  1  0  0  0
+  5  6  1  0  0  0
+  5  8  1  0  0  0
+  6 11  2  0  0  0
+  7 14  1  0  0  0
+  7 15  1  0  0  0
+  7 16  1  0  0  0
+  9 17  1  0  0  0
+M  CHG  1   8  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+5
+
+> <s_m_entry_name>
+Structure5
+
+> <s_pdb_PDB_TITLE>
+MURA DEAD-END COMPLEX WITH TERREIC ACID
+
+> <s_pdb_PDB_ID>
+3KQA
+
+> <r_pdb_PDB_CRYST1_a>
+115.27
+
+> <r_pdb_PDB_CRYST1_b>
+115.27
+
+> <r_pdb_PDB_CRYST1_c>
+277.4
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 43 21 2
+
+> <i_pdb_PDB_CRYST1_z>
+32
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE/TRANSFERASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+17-NOV-09
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.195
+
+> <r_pdb_PDB_Rfree>
+0.254
+
+> <r_pdb_PDB_RESOLUTION>
+2.25
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+93
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains>
+D
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/home/aquila/Downloads
+
+> <s_m_Source_File>
+3kqa.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+2
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJy1lTtvGzEQhP8KoVp2uHzdrtylShukDFwIjqsoUgqlCAz/99xxedw5sbLhuPo4pPcxc7BfdrQ7uO/zT/a8d/5x72aSlch3ok6hU+yUOuW9u6PHhbVkrUa9bi2Jx7Ael4vaJsAx99uwHGM/xuWYlsfz2d977+fDy+veTfciUvZu9+16vD6738/n4+n691DfuJ9Px9OnX5fTg/ty9/ly/uGeLn/O14NLD+7rYZ57t1TbhWZJLHndesZgGA2TYTYshpMhmzVaWquSNdDaWyGbEKuQmkVdYHuRq1BMKFWY/o9RsRlVJll9mDEbFsPJkA3XL62w94ZkRmlprUrWQGtvBTahVGFqRjWh1iWbQduTTaJDDEbl9xgVN0alZpRIXH2YkQ2lY/KGZBgMo2Eyo7S0ViVroLU3QiITpAq+GdWF1F8sj7U92SQ6xGBUfI9RYWNUbkZRyNO658IJOAMX4AmYgcWYPTABB+Dat3rapmgD0FqwSQxSUikPEhNIWV+VQVr6B9iprXMrCfziNA6hEnuQWCVIS6MKC7wpJ6o5eY2pWEwM0TBEwxANQzQM0TBEIxCNQDQC0Qh8EvoXZ42Jm9sQwCqBadzcLoMkASR1exn6RpJomXBzmwdJIADmcQiVBD6Meq0rfWhMk8UkEI1ANALRCEQjFk3xHpiAA3AETsAZY5LmNgSgUu1BMF8bbSvVLgSTt6G3Uu0fYKe2zlYqHgKo/whuhmiSfRh6rSttY/JvjsljTNxjKr6AdRMwA0M0BNEQREMQDUE0BNFQBi4QU52iDdB3V4kIpOY2DxIlkJrbMkiUeyZ6revcShAA+WGIVYogkUrlI2N6/Qcoun1H
+
+> <r_i_Potential_Energy-OPLS3e>
+-44924.8882219615
+
+> <r_i_RMS_Derivative-OPLS3e>
+0.0971788650990822
+
+> <r_i_Max_Derivative-OPLS3e>
+5.00596195229442
+
+> <r_i_Stretch_Energy-OPLS3e>
+61.7619623842553
+
+> <r_i_Bend_Energy-OPLS3e>
+1315.21579204663
+
+> <r_i_LJ-14_Energy-OPLS3e>
+2505.7704709183
+
+> <r_i_El-14_Energy-OPLS3e>
+-1920.80589524287
+
+> <r_i_Van_der_Waals_Energy-OPLS3e>
+-3202.47993083867
+
+> <r_i_Electrostatic_Energy-OPLS3e>
+-43651.0893304456
+
+> <r_i_Dihedral_Energy-OPLS3e>
+-33.2612907835222
+
+> <r_i_target_temperature>
+298
+
+> <b_ppw_ran_impref>
+1
+
+> <s_m_source_file>
+../3kqa_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDQEhdMVtDSDJdQyg9TylDKFtPSF0pPUMoQzE9TylbQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0216
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0010
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0206
+
+> <r_epik_State_Penalty>
+  0.0165
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0174832542651569
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

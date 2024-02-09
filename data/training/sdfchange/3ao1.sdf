@@ -1,0 +1,78 @@
+3ao1_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 16 17  0  0  1  0            999 V2000
+   19.6760    8.1270   10.5730 C   0  0  0  0  0  0
+   20.8500    7.7520   11.2100 C   0  0  0  0  0  0
+   22.1250    8.1560   10.7810 C   0  0  0  0  0  0
+   22.2940    8.9750    9.6620 C   0  0  0  0  0  0
+   21.1340    9.3620    9.0160 C   0  0  0  0  0  0
+   19.8210    8.9430    9.4710 C   0  0  0  0  0  0
+   18.8870    9.4690    8.6220 O   0  0  0  0  0  0
+   19.5820    9.9360    7.4590 C   0  0  0  0  0  0
+   20.9380   10.1230    7.9060 O   0  0  0  0  0  0
+   20.7400    6.9580   12.2930 O   0  0  0  0  0  0
+   18.6979    7.7965   10.9226 H   0  0  0  0  0  0
+   23.0031    7.8227   11.3341 H   0  0  0  0  0  0
+   23.2796    9.2897    9.3191 H   0  0  0  0  0  0
+   19.5115    9.1812    6.6620 H   0  0  0  0  0  0
+   19.1286   10.8770    7.1140 H   0  0  0  0  0  0
+   19.7473    6.6345   12.6393 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  6  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2 10  1  0  0  0
+  3  4  2  0  0  0
+  3 12  1  0  0  0
+  4  5  1  0  0  0
+  4 13  1  0  0  0
+  5  6  2  0  0  0
+  5  9  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  8 14  1  0  0  0
+  8 15  1  0  0  0
+ 10 16  1  0  0  0
+M  END
+> <s_m_source_file>
+../3ao1_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W2NIXTFbY0hdYyhbT0hdKVtjSF1jKGMxMilPW0NIMl1PMg==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0007
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0007
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

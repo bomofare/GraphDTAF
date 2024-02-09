@@ -1,0 +1,81 @@
+3e62_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 18  0  0  1  0            999 V2000
+   33.7560   40.6770   36.4760 C   0  0  0  0  0  0
+   33.1580   39.5960   37.1320 C   0  0  0  0  0  0
+   33.4490   42.0510   36.3260 C   0  0  0  0  0  0
+   32.3800   42.6610   36.8630 N   0  0  0  0  0  0
+   33.7830   38.3500   37.0230 C   0  0  0  0  0  0
+   34.9720   38.1490   36.3020 C   0  0  0  0  0  0
+   32.9450   36.9070   37.9130 Br  0  0  0  0  0  0
+   35.5840   39.2270   35.6420 C   0  0  0  0  0  0
+   34.9400   40.4720   35.7550 C   0  0  0  0  0  0
+   35.2370   41.7040   35.2440 N   0  3  0  0  0  0
+   34.3560   42.6620   35.5880 N   0  0  0  0  0  0
+   32.2399   39.7202   37.7062 H   0  0  0  0  0  0
+   31.6647   42.0851   37.4686 H   0  0  0  0  0  0
+   32.2196   43.7366   36.6973 H   0  0  0  0  0  0
+   35.4195   37.1562   36.2549 H   0  0  0  0  0  0
+   36.5064   39.1055   35.0741 H   0  0  0  0  0  0
+   36.0985   41.9522   34.6066 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  1  9  1  0  0  0
+  2  5  1  0  0  0
+  2 12  1  0  0  0
+  3  4  1  0  0  0
+  3 11  2  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  6  8  1  0  0  0
+  6 15  1  0  0  0
+  8  9  2  0  0  0
+  8 16  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 17  1  0  0  0
+M  CHG  1  10   1
+M  END
+> <s_m_source_file>
+../3e62_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMl1jMW5bbkhdYyhjMTIpW2NIXVtjSF1jKEJyKVtjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

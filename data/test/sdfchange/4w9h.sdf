@@ -1,0 +1,222 @@
+4w9h_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 65 67  0  0  1  0            999 V2000
+    9.7950   56.2440   95.0880 C   0  0  0  0  0  0
+   11.1050   55.6490   94.5390 C   0  0  0  0  0  0
+   12.1640   56.2220   94.7630 O   0  0  0  0  0  0
+   10.9830   54.4680   93.9020 N   0  0  0  0  0  0
+   12.1050   53.7530   93.2640 C   0  0  1  0  0  0
+   12.2460   52.3070   93.8150 C   0  0  0  0  0  0
+   12.5770   52.3600   95.3120 C   0  0  0  0  0  0
+   13.3960   51.5840   93.0920 C   0  0  0  0  0  0
+   10.9360   51.4850   93.6750 C   0  0  0  0  0  0
+   11.7940   53.8090   91.7400 C   0  0  0  0  0  0
+   10.6420   53.6410   91.3560 O   0  0  0  0  0  0
+   12.7880   54.0820   90.8660 N   0  0  0  0  0  0
+   14.2430   54.3770   91.0510 C   0  0  0  0  0  0
+   14.6280   55.2010   89.8160 C   0  0  2  0  0  0
+   14.2960   56.5900   89.9680 O   0  0  0  0  0  0
+   13.7830   54.6250   88.7250 C   0  0  0  0  0  0
+   12.4600   54.2030   89.3800 C   0  0  1  0  0  0
+   12.0210   53.0100   88.7650 C   0  0  0  0  0  0
+   12.4490   51.9300   89.1560 O   0  0  0  0  0  0
+   11.2160   53.1280   87.6810 N   0  0  0  0  0  0
+   10.7750   51.9460   86.9360 C   0  0  0  0  0  0
+   11.5790   51.7750   85.7660 C   0  0  0  0  0  0
+   12.4090   52.7680   85.2270 C   0  0  0  0  0  0
+   13.1790   52.5240   84.0770 C   0  0  0  0  0  0
+   11.5530   50.5390   85.1170 C   0  0  0  0  0  0
+   12.3150   50.2980   83.9740 C   0  0  0  0  0  0
+   13.1450   51.2900   83.4270 C   0  0  0  0  0  0
+   13.8760   51.0670   82.3110 C   0  0  0  0  0  0
+   15.5020   51.4650   82.0540 S   0  0  0  0  0  0
+   15.5700   50.8640   80.5030 C   0  0  0  0  0  0
+   14.3640   50.3760   80.1960 N   0  0  0  0  0  0
+   13.4440   50.4860   81.1700 C   0  0  0  0  0  0
+   12.0320   49.9440   80.9210 C   0  0  0  0  0  0
+   10.0075   57.2017   95.5857 H   0  0  0  0  0  0
+    9.3501   55.5454   95.8119 H   0  0  0  0  0  0
+    9.0917   56.4099   94.2586 H   0  0  0  0  0  0
+    9.9706   54.0387   93.8747 H   0  0  0  0  0  0
+   13.0552   54.2494   93.5104 H   0  0  0  0  0  0
+   13.5024   52.9352   95.4627 H   0  0  0  0  0  0
+   12.7145   51.3375   95.6935 H   0  0  0  0  0  0
+   11.7514   52.8453   95.8531 H   0  0  0  0  0  0
+   14.3205   52.1712   93.1949 H   0  0  0  0  0  0
+   13.1477   51.4748   92.0260 H   0  0  0  0  0  0
+   13.5418   50.5892   93.5383 H   0  0  0  0  0  0
+   10.1184   52.0070   94.1937 H   0  0  0  0  0  0
+   11.0779   50.4901   94.1222 H   0  0  0  0  0  0
+   10.6838   51.3757   92.6099 H   0  0  0  0  0  0
+   14.3867   54.9433   91.9830 H   0  0  0  0  0  0
+   14.8046   53.4327   91.1054 H   0  0  0  0  0  0
+   15.7087   55.2086   89.6112 H   0  0  0  0  0  0
+   14.8110   57.1989   90.7256 H   0  0  0  0  0  0
+   13.6140   55.3878   87.9507 H   0  0  0  0  0  0
+   14.2970   53.7596   88.2812 H   0  0  0  0  0  0
+   11.5831   54.8484   89.2237 H   0  0  0  0  0  0
+   10.8938   54.1305   87.3629 H   0  0  0  0  0  0
+   10.8703   51.0544   87.5732 H   0  0  0  0  0  0
+    9.7240   52.0722   86.6367 H   0  0  0  0  0  0
+   12.4640   53.7392   85.6963 H   0  0  0  0  0  0
+   13.8148   53.3005   83.6780 H   0  0  0  0  0  0
+   10.9324   49.7417   85.4985 H   0  0  0  0  0  0
+   12.2740   49.3328   83.4913 H   0  0  0  0  0  0
+   16.3714   50.8170   79.7806 H   0  0  0  0  0  0
+   11.4114   50.1140   81.8131 H   0  0  0  0  0  0
+   12.0850   48.8655   80.7113 H   0  0  0  0  0  0
+   11.5864   50.4636   80.0599 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 34  1  0  0  0
+  1 35  1  0  0  0
+  1 36  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  1  0  0  0
+  4 37  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  5 38  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  6  9  1  0  0  0
+  7 39  1  0  0  0
+  7 40  1  0  0  0
+  7 41  1  0  0  0
+  8 42  1  0  0  0
+  8 43  1  0  0  0
+  8 44  1  0  0  0
+  9 45  1  0  0  0
+  9 46  1  0  0  0
+  9 47  1  0  0  0
+ 10 11  2  0  0  0
+ 10 12  1  0  0  0
+ 12 13  1  0  0  0
+ 12 17  1  0  0  0
+ 13 14  1  0  0  0
+ 13 48  1  0  0  0
+ 13 49  1  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 14 50  1  0  0  0
+ 15 51  1  0  0  0
+ 16 17  1  0  0  0
+ 16 52  1  0  0  0
+ 16 53  1  0  0  0
+ 17 18  1  0  0  0
+ 17 54  1  0  0  0
+ 18 19  2  0  0  0
+ 18 20  1  0  0  0
+ 20 21  1  0  0  0
+ 20 55  1  0  0  0
+ 21 22  1  0  0  0
+ 21 56  1  0  0  0
+ 21 57  1  0  0  0
+ 22 23  2  0  0  0
+ 22 25  1  0  0  0
+ 23 24  1  0  0  0
+ 23 58  1  0  0  0
+ 24 27  2  0  0  0
+ 24 59  1  0  0  0
+ 25 26  2  0  0  0
+ 25 60  1  0  0  0
+ 26 27  1  0  0  0
+ 26 61  1  0  0  0
+ 27 28  1  0  0  0
+ 28 29  1  0  0  0
+ 28 32  2  0  0  0
+ 29 30  1  0  0  0
+ 30 31  2  0  0  0
+ 30 62  1  0  0  0
+ 31 32  1  0  0  0
+ 32 33  1  0  0  0
+ 33 63  1  0  0  0
+ 33 64  1  0  0  0
+ 33 65  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+11
+
+> <s_m_entry_name>
+Structure11
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_m_Source_Path>
+/disk1/aquila/PDBbind2020/fail/4w9h
+
+> <s_m_Source_File>
+4w9h_protein.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+9
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_converted_selenomethionines>
+1
+
+> <s_ppw_het_states>
+eJy1lD9vwjAQxb+K5bWk9flP4oOtU9eqI2KIKFMpdEiHCvHda5/jPIKqbkFCevxyee/iC3fRpNdqmz62dXal7G63Utv0NY9mpS7XUei3oR8O6utw6o/DzzpDoz72/fHp83zcqJfm+Xx6V/vz92lIFzfqda0erM5e2sLfLeHv4O+X8PfwD0v4h+rfxeRvsn2SLWQHGSF5kmwgCdJCOkgPiTRGGiONkcZTWjQGkiAtpIP0kAGyhewgIyTSCGmENEIaIY2QRkgjpJGkZT0edjlnwpGX07YzEFERBTAAZ5DPfw78BPK1MpY5sPfAAXgBYepjBOiUpbE8qVsg46igkwq0ztI68xzIMAlzvfUQWQZbgRXgamMVeFR4AQEgCGgBSqcdPApgVHQCIoB0mqdfb2EBZgIipYLwqpS3pALplNw9aOHhBOBZSJ6FAipCvaVWSOskY0ikKRtB58r0l84/03agv7ZD8+96IFkPJm2H6y8KIEZ0
+
+> <s_m_source_file>
+../4w9h_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11DKD1PKVtOSF1bQ0BASF0oQyhbQ0gzXSkoW0NIM10pW0NIM10pQyg9TylOMVtDSDJdW0NASF0oW09IXSlbQ0gyXVtDQEhdMUMoPU8pW05IXVtDSDJdYzJbY0hdW2NIXWMoW2NIXVtjSF0yKS1jM3NbY0hdbmMzW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0002
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0002
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

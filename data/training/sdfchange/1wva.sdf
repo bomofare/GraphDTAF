@@ -1,0 +1,97 @@
+1wva_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 25  0  0  1  0            999 V2000
+   23.4010   13.7150   -6.3660 O   0  5  0  0  0  0
+   22.5730   11.5070   -3.5050 N   0  3  0  0  0  0
+   22.4030   12.0810   -4.8680 C   0  0  2  0  0  0
+   23.4980   13.1820   -5.1440 C   0  0  0  0  0  0
+   24.3580   13.5380   -4.3760 O   0  0  0  0  0  0
+   20.9530   12.5710   -4.8350 C   0  0  0  0  0  0
+   20.4570   13.3760   -6.3520 S   0  0  0  0  0  0
+   18.7770   13.7350   -5.8610 C   0  0  0  0  0  0
+   18.6130   15.2220   -5.5710 C   0  0  0  0  0  0
+   17.1830   15.6360   -5.1390 B   0  5  0  0  0  0
+   16.7690   15.0130   -3.9140 O   0  0  0  0  0  0
+   17.1090   17.0480   -4.9300 O   0  0  0  0  0  0
+   16.1950   15.3090   -6.1570 O   0  0  0  0  0  0
+   23.5943   11.1127   -3.3980 H   0  0  0  0  0  0
+   21.8482   10.6929   -3.3570 H   0  0  0  0  0  0
+   22.4021   12.2913   -2.7529 H   0  0  0  0  0  0
+   22.5365   11.3470   -5.6763 H   0  0  0  0  0  0
+   20.2805   11.7156   -4.6740 H   0  0  0  0  0  0
+   20.8289   13.2943   -4.0156 H   0  0  0  0  0  0
+   18.0895   13.4507   -6.6712 H   0  0  0  0  0  0
+   18.5303   13.1643   -4.9536 H   0  0  0  0  0  0
+   19.2915   15.5136   -4.7558 H   0  0  0  0  0  0
+   18.8554   15.8007   -6.4745 H   0  0  0  0  0  0
+   17.3764   15.1306   -3.0045 H   0  0  0  0  0  0
+   17.7707   17.5307   -4.1958 H   0  0  0  0  0  0
+   16.0684   14.2670   -6.4860 H   0  0  0  0  0  0
+  1  4  1  0  0  0
+  2  3  1  0  0  0
+  2 14  1  0  0  0
+  2 15  1  0  0  0
+  2 16  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  3 17  1  0  0  0
+  4  5  2  0  0  0
+  6  7  1  0  0  0
+  6 18  1  0  0  0
+  6 19  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  8 20  1  0  0  0
+  8 21  1  0  0  0
+  9 10  1  0  0  0
+  9 22  1  0  0  0
+  9 23  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 13  1  0  0  0
+ 11 24  1  0  0  0
+ 12 25  1  0  0  0
+ 13 26  1  0  0  0
+M  CHG  3   1  -1   2   1  10  -1
+M  END
+> <s_m_source_file>
+../1wva_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXUMoPU8pW0NAQEhdKFtOSDMrXSlbQ0gyXVNbQ0gyXVtDSDJdW0ItXShbT0hdKShbT0hdKVtPSF0=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0082
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0082
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00824962982093361
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+$$$$

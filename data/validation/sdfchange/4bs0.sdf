@@ -1,0 +1,125 @@
+4bs0_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 15 16  0  0  1  0            999 V2000
+   22.9000   -2.6910  -18.3860 O   0  5  0  0  0  0
+   23.8030   -2.1460  -19.2090 N   0  3  0  0  0  0
+   24.9800   -1.9180  -18.7730 O   0  0  0  0  0  0
+   23.4390   -1.6670  -20.5130 C   0  0  0  0  0  0
+   24.3930   -0.9750  -21.2370 C   0  0  0  0  0  0
+   24.0540   -0.4500  -22.4260 C   0  0  0  0  0  0
+   22.6840   -0.5410  -22.8580 C   0  0  0  0  0  0
+   22.0250   -0.1900  -24.0010 N   0  0  0  0  0  0
+   21.7870   -1.2790  -22.0980 C   0  0  0  0  0  0
+   22.1280   -1.8600  -20.8720 C   0  0  0  0  0  0
+   20.5650   -1.2470  -22.7830 N   0  5  0  0  0  0
+   20.7440   -0.5990  -23.9130 N   0  0  0  0  0  0
+   25.3929   -0.8634  -20.8444 H   0  0  0  0  0  0
+   24.8037    0.0292  -23.0382 H   0  0  0  0  0  0
+   21.4676   -2.4185  -20.2252 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  4  5  2  0  0  0
+  4 10  1  0  0  0
+  5  6  1  0  0  0
+  5 13  1  0  0  0
+  6  7  2  0  0  0
+  6 14  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  8 12  2  0  0  0
+  9 10  2  0  0  0
+  9 11  1  0  0  0
+ 10 15  1  0  0  0
+ 11 12  1  0  0  0
+M  CHG  3   1  -1   2   1  11  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+52
+
+> <s_m_entry_name>
+Structure52
+
+> <s_pdb_PDB_TITLE>
+4bs0_protein
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_m_Source_Path>
+/disk1/aquila/PDBbind2020/fail/4bs0
+
+> <s_m_Source_File>
+4bs0_protein.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_entry_id_backup>
+50
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJzllDFvhDAMhf9KxAw0dgIk3Napa9WxugFdb+oVbqBDdbr/3jgEDEEVSyUqlen5ySaGTy+3BJJavLoH0ZhUZHBMBWmbiiCtTIUMElgiS8VSsyxYliwrloalJUk6rLFYgOSwBi4M4BXBGzh1BKPiDvSGYkN5Q/OI9kbBHYNRslF4w/JIOZ6yNAyPmHEE6PNUDrZyB98Sepv78SpHqdyuVNupvjsOklqdOT3uTclL3/RncT23zaX/GrrF+6m5PHx0l4N4yh679k2cus+2rwUexHMtZOL/6j50x+P+C16ZS6ntDC8ZtAnVJtTUMOJ2NUjCjbm1BawJ08AG4Qz2RPzrAYaYMMaEMSYMm4QxJgwxYdgkjEOANSodCBsfWO1X4wBTTQGG0LoOrcYfkcL+of2TRDEmusrsNlGMifrM6ly5a3aWWTJMxZkd6oGoazWzK7lc06Xu7Sv5eP8GH0if1A==
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_m_source_file>
+../4bs0_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W08tXVtOK10oPU8pYyhbY0hdW2NIXTEpW2NIXWMoYzEyKVtuLV1ubjI=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0080
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0080
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00803358172617679
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+$$$$

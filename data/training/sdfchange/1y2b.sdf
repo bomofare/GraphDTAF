@@ -1,0 +1,91 @@
+1y2b_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 24 24  0  0  1  0            999 V2000
+   15.6700   45.7620    9.5570 O   0  0  0  0  0  0
+   14.5740   45.6030   10.0890 C   0  0  0  0  0  0
+   13.3850   45.6210    9.4050 O   0  0  0  0  0  0
+   13.4510   45.6730    7.9680 C   0  0  0  0  0  0
+   12.0460   45.7730    7.4160 C   0  0  0  0  0  0
+   14.4040   45.6220   11.5430 C   0  0  0  0  0  0
+   13.2490   45.7810   12.3090 C   0  0  0  0  0  0
+   11.8200   45.9840   11.9680 C   0  0  0  0  0  0
+   15.4360   45.4790   12.5170 C   0  0  0  0  0  0
+   16.8870   45.2740   12.2810 C   0  0  0  0  0  0
+   14.9680   45.5390   13.7700 N   0  3  0  0  0  0
+   13.6520   45.7250   13.6140 N   0  0  0  0  0  0
+   14.0351   46.5525    7.6594 H   0  0  0  0  0  0
+   13.9349   44.7604    7.5899 H   0  0  0  0  0  0
+   12.0857   45.8134    6.3175 H   0  0  0  0  0  0
+   11.5655   46.6853    7.7993 H   0  0  0  0  0  0
+   11.4653   44.8931    7.7299 H   0  0  0  0  0  0
+   11.7027   45.9996   10.8744 H   0  0  0  0  0  0
+   11.4753   46.9407   12.3874 H   0  0  0  0  0  0
+   11.2222   45.1623   12.3893 H   0  0  0  0  0  0
+   17.0829   45.2518   11.1988 H   0  0  0  0  0  0
+   17.2003   44.3199   12.7300 H   0  0  0  0  0  0
+   17.4531   46.0984   12.7393 H   0  0  0  0  0  0
+   15.6584   45.4378   14.6204 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  6  1  0  0  0
+  3  4  1  0  0  0
+  4  5  1  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5 15  1  0  0  0
+  5 16  1  0  0  0
+  5 17  1  0  0  0
+  6  7  2  0  0  0
+  6  9  1  0  0  0
+  7  8  1  0  0  0
+  7 12  1  0  0  0
+  8 18  1  0  0  0
+  8 19  1  0  0  0
+  8 20  1  0  0  0
+  9 10  1  0  0  0
+  9 11  2  0  0  0
+ 10 21  1  0  0  0
+ 10 22  1  0  0  0
+ 10 23  1  0  0  0
+ 11 12  1  0  0  0
+ 11 24  1  0  0  0
+M  CHG  1  11   1
+M  END
+> <s_m_source_file>
+../1y2b_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXU9DKD1PKWMxYyhbQ0gzXSlbbkhdbmMxW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.4107
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.410679838952604
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

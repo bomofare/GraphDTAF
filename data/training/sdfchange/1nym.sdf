@@ -1,0 +1,101 @@
+1nym_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 28 28  0  0  1  0            999 V2000
+   11.2940   13.0400   37.6420 C   0  0  0  0  0  0
+   12.4410   12.2120   37.6320 O   0  0  0  0  0  0
+   13.6050   11.9970   36.9950 N   0  0  0  0  0  0
+   13.9000   10.7740   37.1970 C   0  0  0  0  0  0
+   13.0300    9.7150   37.8180 C   0  0  0  0  0  0
+   13.3210    9.3380   38.9290 O   0  0  0  0  0  0
+   12.0730    9.2510   37.1080 N   0  0  0  0  0  0
+   11.1490    8.2170   37.5760 C   0  0  0  0  0  0
+   10.3560    7.6360   36.3000 B   0  0  0  0  0  0
+   11.2450    7.1170   35.2320 O   0  0  0  0  0  0
+    9.3900    8.5970   35.7140 O   0  0  0  0  0  0
+   15.3080   10.3820   36.9080 C   0  0  0  0  0  0
+   15.9100    9.2540   37.3880 C   0  0  0  0  0  0
+   17.5650    9.1870   36.9100 S   0  0  0  0  0  0
+   17.3300   10.6540   36.0700 C   0  0  0  0  0  0
+   18.3910   11.2020   35.3630 N   0  0  0  0  0  0
+   16.1150   11.1890   36.1320 N   0  0  0  0  0  0
+   10.6206   12.7238   38.4523 H   0  0  0  0  0  0
+   10.7722   12.9552   36.6774 H   0  0  0  0  0  0
+   11.5974   14.0848   37.8041 H   0  0  0  0  0  0
+   11.9631    9.6700   36.0969 H   0  0  0  0  0  0
+   11.7168    7.4127   38.0666 H   0  0  0  0  0  0
+   10.4404    8.6560   38.2937 H   0  0  0  0  0  0
+   12.0312    6.3876   35.4769 H   0  0  0  0  0  0
+    8.6452    9.0891   36.3567 H   0  0  0  0  0  0
+   15.4106    8.4970   37.9927 H   0  0  0  0  0  0
+   19.3688   10.6981   35.3603 H   0  0  0  0  0  0
+   18.2542   12.1402   34.8053 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 18  1  0  0  0
+  1 19  1  0  0  0
+  1 20  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  4 12  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  7  8  1  0  0  0
+  7 21  1  0  0  0
+  8  9  1  0  0  0
+  8 22  1  0  0  0
+  8 23  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+ 10 24  1  0  0  0
+ 11 25  1  0  0  0
+ 12 13  2  0  0  0
+ 12 17  1  0  0  0
+ 13 14  1  0  0  0
+ 13 26  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 17  2  0  0  0
+ 16 27  1  0  0  0
+ 16 28  1  0  0  0
+M  END
+> <s_m_source_file>
+../1nym_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMl1jKG4xKXNbY0hdYzFDKD1OXE9bQ0gzXSlcQyg9TylbTkhdW0NIMl1CKFtPSF0pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0016
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0016
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis. This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+$$$$

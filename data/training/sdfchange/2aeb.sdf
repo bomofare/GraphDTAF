@@ -1,0 +1,97 @@
+2aeb_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 25  0  0  1  0            999 V2000
+   65.4420    9.9290   31.1110 N   0  3  0  0  0  0
+   65.5320   10.1090   29.6360 C   0  0  2  0  0  0
+   66.9810    9.7210   29.2130 C   0  0  0  0  0  0
+   67.3720    9.7130   28.0850 O   0  0  0  0  0  0
+   67.7960    9.3450   30.1980 O   0  5  0  0  0  0
+   65.2720   11.5760   29.2400 C   0  0  0  0  0  0
+   66.2610   12.6640   29.5090 C   0  0  0  0  0  0
+   65.8950   14.0800   29.1140 C   0  0  0  0  0  0
+   66.9970   15.0470   29.5290 C   0  0  0  0  0  0
+   66.6680   16.5410   29.8410 B   0  0  0  0  0  0
+   67.8370   17.3760   30.0880 O   0  0  0  0  0  0
+   65.8800   16.7080   31.0390 O   0  0  0  0  0  0
+   65.6314    8.8754   31.3640 H   0  0  0  0  0  0
+   64.4365   10.2135   31.4544 H   0  0  0  0  0  0
+   66.1916   10.5651   31.6044 H   0  0  0  0  0  0
+   64.7591    9.4767   29.1746 H   0  0  0  0  0  0
+   65.1295   11.6421   28.1513 H   0  0  0  0  0  0
+   64.3679   11.9390   29.7508 H   0  0  0  0  0  0
+   66.4652   12.7151   30.5887 H   0  0  0  0  0  0
+   67.1954   12.4520   28.9687 H   0  0  0  0  0  0
+   65.7624   14.1337   28.0233 H   0  0  0  0  0  0
+   64.9577   14.3690   29.6120 H   0  0  0  0  0  0
+   67.4714   14.6871   30.4539 H   0  0  0  0  0  0
+   67.7508   15.1086   28.7302 H   0  0  0  0  0  0
+   68.6312   17.4483   29.3304 H   0  0  0  0  0  0
+   64.9180   16.1846   31.1419 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 13  1  0  0  0
+  1 14  1  0  0  0
+  1 15  1  0  0  0
+  2  3  1  0  0  0
+  2  6  1  0  0  0
+  2 16  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  6  7  1  0  0  0
+  6 17  1  0  0  0
+  6 18  1  0  0  0
+  7  8  1  0  0  0
+  7 19  1  0  0  0
+  7 20  1  0  0  0
+  8  9  1  0  0  0
+  8 21  1  0  0  0
+  8 22  1  0  0  0
+  9 10  1  0  0  0
+  9 23  1  0  0  0
+  9 24  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 11 25  1  0  0  0
+ 12 26  1  0  0  0
+M  CHG  2   1   1   5  -1
+M  END
+> <s_m_source_file>
+../2aeb_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DKFtPSF0pW0NAQEhdKFtOSDMrXSlbQ0gyXVtDSDJdW0NIMl1bQ0gyXUIoW09IXSlbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0010
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0010
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00103951273526431
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+$$$$

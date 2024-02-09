@@ -1,0 +1,98 @@
+4mg9_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 28 28  0  0  1  0            999 V2000
+   -7.5780   -5.2640   24.0420 C   0  0  0  0  0  0
+   -6.7740   -4.2740   23.1940 C   0  0  0  0  0  0
+   -6.5280   -3.0140   24.0250 C   0  0  0  0  0  0
+   -5.7450   -1.9350   23.2600 C   0  0  0  0  0  0
+   -4.4060   -2.2860   22.8320 O   0  0  0  0  0  0
+   -4.2460   -2.9380   21.6410 C   0  0  0  0  0  0
+   -5.1520   -3.4460   20.9790 O   0  0  0  0  0  0
+   -2.9120   -2.9920   21.2390 C   0  0  0  0  0  0
+   -2.5040   -3.5280   20.0170 C   0  0  0  0  0  0
+   -1.1520   -3.5100   19.6730 C   0  0  0  0  0  0
+   -0.2390   -2.9380   20.5580 C   0  0  0  0  0  0
+    1.0840   -2.8850   20.2760 O   0  0  0  0  0  0
+   -0.6470   -2.3960   21.7640 C   0  0  0  0  0  0
+   -1.9840   -2.4120   22.0910 C   0  0  0  0  0  0
+   -7.7649   -6.1783   23.4596 H   0  0  0  0  0  0
+   -8.5377   -4.8080   24.3267 H   0  0  0  0  0  0
+   -7.0088   -5.5167   24.9487 H   0  0  0  0  0  0
+   -5.8143   -4.7300   22.9093 H   0  0  0  0  0  0
+   -7.3431   -4.0212   22.2872 H   0  0  0  0  0  0
+   -7.4926   -2.5783   24.3246 H   0  0  0  0  0  0
+   -5.9486   -3.2744   24.9230 H   0  0  0  0  0  0
+   -6.2913   -1.6657   22.3440 H   0  0  0  0  0  0
+   -5.6325   -1.0440   23.8951 H   0  0  0  0  0  0
+   -3.2374   -3.9583   19.3350 H   0  0  0  0  0  0
+   -0.8151   -3.9361   18.7280 H   0  0  0  0  0  0
+    1.4620   -3.3014   19.3306 H   0  0  0  0  0  0
+    0.0823   -1.9612   22.4475 H   0  0  0  0  0  0
+   -2.3163   -1.9649   23.0279 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  1 16  1  0  0  0
+  1 17  1  0  0  0
+  2  3  1  0  0  0
+  2 18  1  0  0  0
+  2 19  1  0  0  0
+  3  4  1  0  0  0
+  3 20  1  0  0  0
+  3 21  1  0  0  0
+  4  5  1  0  0  0
+  4 22  1  0  0  0
+  4 23  1  0  0  0
+  5  6  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  2  0  0  0
+  8 14  1  0  0  0
+  9 10  1  0  0  0
+  9 24  1  0  0  0
+ 10 11  2  0  0  0
+ 10 25  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 12 26  1  0  0  0
+ 13 14  2  0  0  0
+ 13 27  1  0  0  0
+ 14 28  1  0  0  0
+M  END
+> <s_m_source_file>
+../4mg9_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXVtDSDJdW0NIMl1PQyg9TyljMVtjSF1bY0hdYyhbT0hdKVtjSF1bY0hdMQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0222
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0222
+
+> <r_epik_State_Penalty>
+  0.0179
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0178767440348002
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

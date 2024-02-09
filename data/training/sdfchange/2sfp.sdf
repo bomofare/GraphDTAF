@@ -1,0 +1,62 @@
+2sfp_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 10  9  0  0  1  0            999 V2000
+   25.5010   17.6990   67.8470 C   0  0  0  0  0  0
+   24.0070   17.7560   67.8440 C   0  0  0  0  0  0
+   23.4120   16.6270   67.0180 C   0  0  0  0  0  0
+   26.0490   16.6080   68.1040 O   0  5  0  0  0  0
+   26.1340   18.7400   67.5890 O   0  0  0  0  0  0
+   23.6347   17.6684   68.8754 H   0  0  0  0  0  0
+   23.6775   18.7140   67.4154 H   0  0  0  0  0  0
+   22.3145   16.6981   67.0367 H   0  0  0  0  0  0
+   23.7241   15.6602   67.4398 H   0  0  0  0  0  0
+   23.7669   16.7058   65.9798 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  4  1  0  0  0
+  1  5  2  0  0  0
+  2  3  1  0  0  0
+  2  6  1  0  0  0
+  2  7  1  0  0  0
+  3  8  1  0  0  0
+  3  9  1  0  0  0
+  3 10  1  0  0  0
+M  CHG  1   4  -1
+M  END
+> <s_m_source_file>
+../2sfp_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXUMoPU8pW0NIMl1bQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0040
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0040
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00399221521437756
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

@@ -1,0 +1,77 @@
+3rxh_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 17  0  0  1  0            999 V2000
+   -1.8620  -12.8960   18.3310 N   0  3  0  0  0  0
+   -2.0360  -13.9460   17.3470 C   0  0  0  0  0  0
+   -1.4510  -13.5410   15.9970 C   0  0  0  0  0  0
+   -1.4540  -14.7300   15.0680 C   0  0  0  0  0  0
+   -2.3860  -15.7060   15.0300 N   0  0  0  0  0  0
+   -0.5010  -15.0280   14.1030 C   0  0  0  0  0  0
+   -2.0330  -16.5910   14.0710 C   0  0  0  0  0  0
+   -0.8770  -16.1810   13.5060 N   0  0  0  0  0  0
+   -2.2929  -13.2177   19.2906 H   0  0  0  0  0  0
+   -2.3716  -11.9836   17.9877 H   0  0  0  0  0  0
+   -0.7894  -12.6899   18.4614 H   0  0  0  0  0  0
+   -1.5264  -14.8584   17.6903 H   0  0  0  0  0  0
+   -3.1086  -14.1522   17.2165 H   0  0  0  0  0  0
+   -1.0617  -12.5726   15.6496 H   0  0  0  0  0  0
+    0.4202  -14.5184   13.7840 H   0  0  0  0  0  0
+   -2.5897  -17.4877   13.7987 H   0  0  0  0  0  0
+   -3.2443  -15.6739   15.7172 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2 12  1  0  0  0
+  2 13  1  0  0  0
+  3  4  2  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  5  7  1  0  0  0
+  5 17  1  0  0  0
+  6  8  2  0  0  0
+  6 15  1  0  0  0
+  7  8  1  0  0  0
+  7 16  1  0  0  0
+M  CHG  1   1   1
+M  END
+> <s_m_source_file>
+../3rxh_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMytdW0NIMl1bQ0gyXUMxPU5bQ0gyXU49W0NIXTE=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0692
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0692
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0606
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.12987087901825
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

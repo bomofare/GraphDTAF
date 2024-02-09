@@ -1,0 +1,86 @@
+5c1w_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 20 21  0  0  1  0            999 V2000
+    4.3810   12.1860   43.4710 C   0  0  0  0  0  0
+    4.0840   13.7120   41.7190 C   0  0  0  0  0  0
+    3.4160   14.5380   42.5510 N   0  0  0  0  0  0
+    3.4380   15.0590   39.5100 C   0  0  0  0  0  0
+    3.4570   12.6250   45.8760 C   0  0  0  0  0  0
+    2.3900   15.2590   44.8090 Cl  0  0  0  0  0  0
+    3.2610   14.1230   43.8290 C   0  0  0  0  0  0
+    3.7110   12.9470   44.4260 C   0  0  0  0  0  0
+    4.5530   12.5150   42.1750 N   0  0  0  0  0  0
+    5.1060   10.6260   43.7360 Cl  0  0  0  0  0  0
+    4.3270   14.0860   40.2810 C   0  0  0  0  0  0
+    4.7750   15.5320   40.0870 C   0  0  0  0  0  0
+    3.2875   14.6857   38.4863 H   0  0  0  0  0  0
+    2.4648   15.1457   40.0154 H   0  0  0  0  0  0
+    3.9042   11.6498   46.1188 H   0  0  0  0  0  0
+    2.3729   12.5870   46.0587 H   0  0  0  0  0  0
+    3.9085   13.4032   46.5089 H   0  0  0  0  0  0
+    4.6678   13.0670   40.0453 H   0  0  0  0  0  0
+    5.4202   15.8902   39.2713 H   0  0  0  0  0  0
+    4.5976   16.3503   40.8004 H   0  0  0  0  0  0
+  1  8  2  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2  9  2  0  0  0
+  2 11  1  0  0  0
+  3  7  2  0  0  0
+  4 11  1  0  0  0
+  4 12  1  0  0  0
+  4 13  1  0  0  0
+  4 14  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  5 16  1  0  0  0
+  5 17  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+ 11 12  1  0  0  0
+ 11 18  1  0  0  0
+ 12 19  1  0  0  0
+ 12 20  1  0  0  0
+M  END
+> <s_m_source_file>
+../5c1w_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Q2xjMWMoW0NIM10pYyhDbCluYyhuMSlbQ0hdMltDSDJdW0NIMl0y
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an electron-poor aromatic ring that is susceptible to covalent hydrolysis at low pH, typically resulting in measured values for nitrogen ring protonation that are around two units higher than predicted values.
+
+$$$$

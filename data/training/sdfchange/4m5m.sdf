@@ -1,0 +1,79 @@
+4m5m_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 16 17  0  0  1  0            999 V2000
+   75.0730    9.0070   66.4160 C   0  0  0  0  0  0
+   75.6770    8.1250   67.4270 C   0  0  0  0  0  0
+   74.9870    6.8580   67.7480 C   0  0  0  0  0  0
+   76.9310    9.8820   67.1510 C   0  0  0  0  0  0
+   73.8400    6.6510   67.0670 N   0  3  0  0  0  0
+   72.1640    7.1750   65.5280 N   0  0  0  0  0  0
+   73.9170    8.6700   65.8170 N   0  0  0  0  0  0
+   73.3270    7.5040   66.1480 C   0  0  0  0  0  0
+   75.8890   10.0540   66.2980 N   0  0  0  0  0  0
+   76.8150    8.7240   67.8430 N   0  3  0  0  0  0
+   75.5710    5.8250   68.8400 S   0  0  0  0  0  0
+   77.7263   10.6398   67.2076 H   0  0  0  0  0  0
+   71.6570    6.2306   65.7752 H   0  0  0  0  0  0
+   71.7292    7.8529   64.7787 H   0  0  0  0  0  0
+   73.2530    5.7376   67.2432 H   0  0  0  0  0  0
+   77.4393    8.2452   68.6118 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  7  1  0  0  0
+  1  9  1  0  0  0
+  2  3  1  0  0  0
+  2 10  1  0  0  0
+  3  5  1  0  0  0
+  3 11  2  0  0  0
+  4  9  2  0  0  0
+  4 10  1  0  0  0
+  4 12  1  0  0  0
+  5  8  1  0  0  0
+  5 15  1  0  0  0
+  6  8  1  0  0  0
+  6 13  1  0  0  0
+  6 14  1  0  0  0
+  7  8  2  0  0  0
+ 10 16  1  0  0  0
+M  CHG  2   5   1  10   1
+M  END
+> <s_m_source_file>
+../4m5m_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+bjFbY0hdW25IXWMoYzEyKWMoPVMpW25IXS9jKD1OXFtIXSlbbkhdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+ 14.8178
+
+> <r_epik_Ionization_Penalty_Charging>
+ 10.4321
+
+> <r_epik_Ionization_Penalty_Neutral>
+  4.3858
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+10.4320667652726
+
+> <i_epik_Tot_Q>
+2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

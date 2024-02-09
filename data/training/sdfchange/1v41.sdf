@@ -1,0 +1,77 @@
+1v41_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 15 16  0  0  1  0            999 V2000
+   53.2130   47.2580   27.1640 C   0  0  0  0  0  0
+   54.3140   46.6660   27.6860 N   0  5  0  0  0  0
+   55.4170   46.9960   27.0110 C   0  0  0  0  0  0
+   56.5870   46.5030   27.3780 N   0  0  0  0  0  0
+   55.4500   47.8230   25.9230 N   0  3  0  0  0  0
+   54.3400   48.4560   25.3500 C   0  0  0  0  0  0
+   54.4920   49.1930   24.3490 O   0  0  0  0  0  0
+   53.1260   48.1130   26.0580 C   0  0  0  0  0  0
+   51.7870   48.5190   25.8340 N   0  0  0  0  0  0
+   51.0800   47.9060   26.7860 N   0  3  0  0  0  0
+   51.8950   47.1160   27.6310 N   0  3  0  0  0  0
+   57.4956   46.7676   26.8173 H   0  0  0  0  0  0
+   49.9908   48.0495   26.8407 H   0  0  0  0  0  0
+   56.4065   48.0374   25.4240 H   0  0  0  0  0  0
+   51.6858   46.4769   28.5015 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  8  2  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  4 12  1  0  0  0
+  5  6  1  0  0  0
+  5 14  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 10 13  1  0  0  0
+ 11 15  1  0  0  0
+M  CHG  4   2  -1   5   1  10   1  11   1
+M  END
+> <s_m_source_file>
+../1v41_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+bjFuW25IXWMoYzEyKWMoPU8pW25IXWMoXFtuSF0yKT1OL1tIXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+ 28.6610
+
+> <r_epik_Ionization_Penalty_Charging>
+ 28.6610
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+28.6609906477139
+
+> <i_epik_Tot_Q>
+2
+
+> <i_epik_Tot_abs_Q>
+4
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

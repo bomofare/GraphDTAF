@@ -1,0 +1,93 @@
+4d52_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 24 24  0  0  1  0            999 V2000
+   18.7000  -24.5000   19.5100 C   0  0  1  0  0  0
+   19.9000  -23.6000   19.7780 C   0  0  2  0  0  0
+   19.6130  -22.1300   19.4710 C   0  0  1  0  0  0
+   18.3280  -21.7060   20.2140 C   0  0  1  0  0  0
+   17.1900  -22.6590   19.8280 C   0  0  2  0  0  0
+   15.8970  -22.2260   20.4790 C   0  0  0  0  0  0
+   19.0430  -25.7930   20.0080 O   0  0  0  0  0  0
+   20.7800  -21.3420   19.8400 O   0  0  0  0  0  0
+   18.5070  -21.7460   21.6300 O   0  0  0  0  0  0
+   17.5600  -23.9880   20.1810 O   0  0  0  0  0  0
+   14.8130  -23.0150   20.0120 O   0  0  0  0  0  0
+   21.0310  -24.0740   19.0420 O   0  0  0  0  0  0
+   18.4039  -24.5874   18.4542 H   0  0  0  0  0  0
+   20.1875  -23.6775   20.8369 H   0  0  0  0  0  0
+   19.4850  -21.9346   18.3961 H   0  0  0  0  0  0
+   18.0860  -20.6543   20.0010 H   0  0  0  0  0  0
+   17.0220  -22.7035   18.7418 H   0  0  0  0  0  0
+   15.9786  -22.3429   21.5697 H   0  0  0  0  0  0
+   15.6999  -21.1712   20.2370 H   0  0  0  0  0  0
+   19.9072  -26.3313   19.5916 H   0  0  0  0  0  0
+   21.7548  -21.5521   19.3756 H   0  0  0  0  0  0
+   19.2824  -21.1263   22.1041 H   0  0  0  0  0  0
+   13.7959  -22.8296   20.3876 H   0  0  0  0  0  0
+   21.3637  -25.1163   19.1558 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  1 10  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2 12  1  0  0  0
+  2 14  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  3 15  1  0  0  0
+  4  5  1  0  0  0
+  4  9  1  0  0  0
+  4 16  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  5 17  1  0  0  0
+  6 11  1  0  0  0
+  6 18  1  0  0  0
+  6 19  1  0  0  0
+  7 20  1  0  0  0
+  8 21  1  0  0  0
+  9 22  1  0  0  0
+ 11 23  1  0  0  0
+ 12 24  1  0  0  0
+M  END
+> <s_m_source_file>
+../4d52_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDQEBIXTFbQ0BASF0oW09IXSlbQ0BIXShbT0hdKVtDQEhdKFtPSF0pW0NAQEhdKE8xKVtDSDJdW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

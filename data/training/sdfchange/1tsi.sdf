@@ -1,0 +1,82 @@
+1tsi_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 20 19  0  0  1  0            999 V2000
+   36.2570   30.8760   19.4530 C   0  0  0  0  0  0
+   36.1360   31.1160   20.9330 C   0  0  0  0  0  0
+   35.0510   30.1260   21.3560 C   0  0  0  0  0  0
+   34.8020   29.9530   22.8710 C   0  0  0  0  0  0
+   35.6270   31.7560   18.6790 N   0  0  0  0  0  0
+   36.8980   29.9150   19.0440 O   0  0  0  0  0  0
+   35.6400   31.7050   17.2760 O   0  0  0  0  0  0
+   33.3350   28.9660   23.2360 P   0  0  0  0  0  0
+   32.0700   29.8110   23.0370 O   0  0  0  0  0  0
+   33.2020   27.7200   22.3420 O   0  5  0  0  0  0
+   33.4560   28.5380   24.7080 O   0  0  0  0  0  0
+   37.1030   30.9150   21.4173 H   0  0  0  0  0  0
+   35.8464   32.1619   21.1124 H   0  0  0  0  0  0
+   34.0845   30.4390   20.9342 H   0  0  0  0  0  0
+   35.3054   29.1224   20.9845 H   0  0  0  0  0  0
+   35.6660   29.4497   23.3295 H   0  0  0  0  0  0
+   34.6643   30.9407   23.3351 H   0  0  0  0  0  0
+   35.0747   32.5551   19.1952 H   0  0  0  0  0  0
+   35.0979   32.4641   16.6930 H   0  0  0  0  0  0
+   33.5598   29.2991   25.4953 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1  6  2  0  0  0
+  2  3  1  0  0  0
+  2 12  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3 14  1  0  0  0
+  3 15  1  0  0  0
+  4  8  1  0  0  0
+  4 16  1  0  0  0
+  4 17  1  0  0  0
+  5  7  1  0  0  0
+  5 18  1  0  0  0
+  7 19  1  0  0  0
+  8  9  2  0  0  0
+  8 10  1  0  0  0
+  8 11  1  0  0  0
+ 11 20  1  0  0  0
+M  CHG  1  10  -1
+M  END
+> <s_m_source_file>
+../1tsi_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtOSF1DKD1PKVtDSDJdW0NIMl1bQ0gyXVAoPU8pKFtPSF0pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.1063
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.1063
+
+> <r_epik_State_Penalty>
+  0.0921
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0920812359515973
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

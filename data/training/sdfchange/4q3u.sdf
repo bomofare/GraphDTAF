@@ -1,0 +1,95 @@
+4q3u_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 25 24  0  0  1  0            999 V2000
+  -44.3650   17.4280   38.8280 N   0  3  0  0  0  0
+  -43.5840   18.2620   37.9430 C   0  0  2  0  0  0
+  -42.4150   17.4940   37.3300 C   0  0  0  0  0  0
+  -41.4770   18.2850   36.7420 O   0  5  0  0  0  0
+  -42.9750   19.5210   38.5760 C   0  0  0  0  0  0
+  -42.1870   19.2020   39.8460 C   0  0  0  0  0  0
+  -41.6100   20.4520   40.2940 N   0  0  0  0  0  0
+  -41.3820   20.8830   41.6450 C   0  0  0  0  0  0
+  -41.7730   19.9150   42.7000 N   0  0  0  0  0  0
+  -40.8590   22.0490   41.8810 N   0  3  0  0  0  0
+  -41.6070   20.2050   43.9990 O   0  0  0  0  0  0
+  -42.2120   16.2840   37.2820 O   0  0  0  0  0  0
+  -44.7492   16.5610   38.2706 H   0  0  0  0  0  0
+  -45.2084   18.0087   39.2297 H   0  0  0  0  0  0
+  -43.7317   17.0795   39.6572 H   0  0  0  0  0  0
+  -44.3733   18.5335   37.2266 H   0  0  0  0  0  0
+  -42.2906   19.9976   37.8588 H   0  0  0  0  0  0
+  -43.7786   20.2246   38.8390 H   0  0  0  0  0  0
+  -42.8669   18.7876   40.6050 H   0  0  0  0  0  0
+  -41.4025   18.4662   39.6156 H   0  0  0  0  0  0
+  -41.2874   21.2037   39.5586 H   0  0  0  0  0  0
+  -42.2046   18.9477   42.4032 H   0  0  0  0  0  0
+  -40.5948   22.7128   41.0446 H   0  0  0  0  0  0
+  -41.9024   19.4755   44.7675 H   0  0  0  0  0  0
+  -40.6805   22.3722   42.9172 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 13  1  0  0  0
+  1 14  1  0  0  0
+  1 15  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 16  1  0  0  0
+  3  4  1  0  0  0
+  3 12  2  0  0  0
+  5  6  1  0  0  0
+  5 17  1  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  6 19  1  0  0  0
+  6 20  1  0  0  0
+  7  8  1  0  0  0
+  7 21  1  0  0  0
+  8  9  1  0  0  0
+  8 10  2  0  0  0
+  9 11  1  0  0  0
+  9 22  1  0  0  0
+ 10 23  1  0  0  0
+ 10 25  1  0  0  0
+ 11 24  1  0  0  0
+M  CHG  3   1   1   4  -1  10   1
+M  END
+> <s_m_source_file>
+../4q3u_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXUMoPU8pW0NAQEhdKFtOSDMrXSlbQ0gyXVtDSDJdW05IXS9DKD1OL1tIXSlbTkhdW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0083
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0038
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0046
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00375072631672235
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis. This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

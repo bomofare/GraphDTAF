@@ -1,0 +1,106 @@
+4xy9_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 29 31  0  0  1  0            999 V2000
+   26.0250   14.3790   -0.6220 C   0  0  0  0  0  0
+   27.2840   14.8590   -0.7720 C   0  0  0  0  0  0
+   27.9180   15.4330    0.3820 C   0  0  0  0  0  0
+   30.4500   18.7900    2.0050 C   0  0  0  0  0  0
+   29.3700   15.8580    0.2150 C   0  0  0  0  0  0
+   29.9600   16.9730    0.8790 C   0  0  0  0  0  0
+   31.3120   17.3060    0.5720 C   0  0  0  0  0  0
+   31.4600   15.6120   -0.8830 C   0  0  3  0  0  0
+   32.1580   14.9170   -1.8150 N   0  0  0  0  0  0
+   30.0830   15.1700   -0.6590 N   0  0  0  0  0  0
+   25.2820   14.4020    0.5200 C   0  0  0  0  0  0
+   31.5970   18.4650    1.3010 N   0  3  0  0  0  0
+   25.2690   13.5440   -2.2050 Br  0  0  0  0  0  0
+   25.8510   14.9430    1.6740 C   0  0  0  0  0  0
+   27.2000   15.4570    1.5980 C   0  0  0  0  0  0
+   27.9000   15.8940    2.6630 O   0  0  0  0  0  0
+   27.1680   15.9750    3.9390 C   0  0  0  0  0  0
+   32.1140   16.6570   -0.2820 N   0  0  0  0  0  0
+   29.4360   17.8990    1.7730 N   0  0  0  0  0  0
+   27.7963   14.8111   -1.7329 H   0  0  0  0  0  0
+   30.4362   19.6778    2.6543 H   0  0  0  0  0  0
+   31.6890   14.0675   -2.3330 H   0  0  0  0  0  0
+   33.1932   15.2027   -2.0530 H   0  0  0  0  0  0
+   24.2662   14.0068    0.5320 H   0  0  0  0  0  0
+   25.2921   14.9771    2.6092 H   0  0  0  0  0  0
+   27.8429   16.3424    4.7262 H   0  0  0  0  0  0
+   26.7954   14.9767    4.2119 H   0  0  0  0  0  0
+   26.3193   16.6664    3.8315 H   0  0  0  0  0  0
+   32.4954   19.0930    1.3931 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 11  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2 20  1  0  0  0
+  3  5  1  0  0  0
+  3 15  2  0  0  0
+  4 12  2  0  0  0
+  4 19  1  0  0  0
+  4 21  1  0  0  0
+  5  6  1  0  0  0
+  5 10  2  0  0  0
+  6  7  1  0  0  0
+  6 19  2  0  0  0
+  7 12  1  0  0  0
+  7 18  2  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  8 18  1  0  0  0
+  9 22  1  0  0  0
+  9 23  1  0  0  0
+ 11 14  2  0  0  0
+ 11 24  1  0  0  0
+ 12 29  1  0  0  0
+ 14 15  1  0  0  0
+ 14 25  1  0  0  0
+ 15 16  1  0  0  0
+ 16 17  1  0  0  0
+ 17 26  1  0  0  0
+ 17 27  1  0  0  0
+ 17 28  1  0  0  0
+M  CHG  1  12   1
+M  END
+> <s_m_source_file>
+../4xy9_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W2NIXTFbY0hdYyhPW0NIM10pYyhbY0hdYzFCcilDMj1OW0NIXShbTkgyXSlOPUMoQzI9MylOPVtDSF1OMw==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+7.51197710670091e-14
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+$$$$

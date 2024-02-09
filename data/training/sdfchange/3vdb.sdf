@@ -1,0 +1,89 @@
+3vdb_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 22 22  0  0  1  0            999 V2000
+  -11.2710  -26.9760  -25.6780 C   0  0  0  0  0  0
+  -10.3110  -28.0180  -25.1710 C   0  0  1  0  0  0
+   -9.5880  -28.6570  -26.3420 C   0  0  2  0  0  0
+  -10.5840  -29.0700  -27.4300 C   0  0  2  0  0  0
+  -11.2610  -27.8410  -28.0290 C   0  0  1  0  0  0
+  -12.4080  -28.2360  -28.9500 C   0  0  0  0  0  0
+  -11.6400  -26.0740  -24.9510 O   0  0  0  0  0  0
+   -9.3310  -27.4540  -24.2930 O   0  0  0  0  0  0
+   -8.8410  -29.7750  -25.8490 O   0  0  0  0  0  0
+  -11.6060  -29.9330  -26.9200 O   0  0  0  0  0  0
+  -11.8230  -26.9900  -27.0270 O   0  0  0  0  0  0
+  -11.9010  -28.7990  -30.1630 O   0  0  0  0  0  0
+  -10.8714  -28.7473  -24.5676 H   0  0  0  0  0  0
+   -8.8453  -27.9754  -26.7821 H   0  0  0  0  0  0
+  -10.0503  -29.6615  -28.1885 H   0  0  0  0  0  0
+  -10.4823  -27.2577  -28.5421 H   0  0  0  0  0  0
+  -13.0425  -28.9805  -28.4469 H   0  0  0  0  0  0
+  -13.0079  -27.3460  -29.1911 H   0  0  0  0  0  0
+   -9.6474  -26.9386  -23.3742 H   0  0  0  0  0  0
+   -8.0863  -29.6284  -25.0622 H   0  0  0  0  0  0
+  -11.3335  -30.8850  -26.4410 H   0  0  0  0  0  0
+  -12.5966  -29.1398  -30.9440 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  2  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2  8  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  4 10  1  0  0  0
+  4 15  1  0  0  0
+  5  6  1  0  0  0
+  5 11  1  0  0  0
+  5 16  1  0  0  0
+  6 12  1  0  0  0
+  6 17  1  0  0  0
+  6 18  1  0  0  0
+  8 19  1  0  0  0
+  9 20  1  0  0  0
+ 10 21  1  0  0  0
+ 12 22  1  0  0  0
+M  END
+> <s_m_source_file>
+../3vdb_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DMVtDQEhdKFtPSF0pW0NAQEhdKFtPSF0pW0NAQEhdKFtPSF0pW0NASF0oTzEpW0NIMl1bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0005
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0005
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

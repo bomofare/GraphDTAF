@@ -1,0 +1,77 @@
+2o7v_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 17  0  0  1  0            999 V2000
+   55.9820   34.2500   23.6260 C   0  0  0  0  0  0
+   55.9860   33.8070   22.1680 C   0  0  0  0  0  0
+   55.5860   35.2920   27.2180 C   0  0  0  0  0  0
+   55.8880   35.8430   28.6030 C   0  0  0  0  0  0
+   56.3280   35.6300   23.6780 O   0  0  0  0  0  0
+   56.4450   35.8590   26.2040 O   0  0  0  0  0  0
+   54.3870   37.0800   24.8560 O   0  0  0  0  0  0
+   55.9230   36.5990   24.8730 P   0  0  0  0  0  0
+   54.9798   34.0972   24.0529 H   0  0  0  0  0  0
+   56.7157   33.6568   24.1915 H   0  0  0  0  0  0
+   55.7204   32.7412   22.1079 H   0  0  0  0  0  0
+   56.9882   33.9598   21.7411 H   0  0  0  0  0  0
+   55.2523   34.4002   21.6025 H   0  0  0  0  0  0
+   55.7315   34.2017   27.2174 H   0  0  0  0  0  0
+   54.5443   35.5230   26.9506 H   0  0  0  0  0  0
+   55.2102   35.3822   29.3367 H   0  0  0  0  0  0
+   55.7425   36.9333   28.6036 H   0  0  0  0  0  0
+   56.9297   35.6119   28.8704 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2 11  1  0  0  0
+  2 12  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  3 14  1  0  0  0
+  3 15  1  0  0  0
+  4 16  1  0  0  0
+  4 17  1  0  0  0
+  4 18  1  0  0  0
+  5  8  1  0  0  0
+  6  8  1  0  0  0
+  7  8  2  0  0  0
+M  END
+> <s_m_source_file>
+../2o7v_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXU9bUEhdKD1PKU9bQ0gyXVtDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

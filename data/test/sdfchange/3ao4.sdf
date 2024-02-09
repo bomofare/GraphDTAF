@@ -1,0 +1,101 @@
+3ao4_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 27 29  0  0  1  0            999 V2000
+   -0.6520   11.6500   -6.5400 C   0  0  0  0  0  0
+   -0.8490   10.4700   -5.7750 C   0  0  0  0  0  0
+   -1.5910   10.5010   -4.5500 C   0  0  0  0  0  0
+   -2.1620   11.6710   -4.0350 C   0  0  0  0  0  0
+   -1.9850   12.8300   -4.7640 C   0  0  0  0  0  0
+   -1.2370   12.8160   -6.0400 C   0  0  0  0  0  0
+   -1.2350   14.1090   -6.5130 O   0  0  0  0  0  0
+   -2.0680   14.9240   -5.6440 C   0  0  0  0  0  0
+   -2.3960   14.1190   -4.5040 O   0  0  0  0  0  0
+   -0.2840    9.1620   -6.2260 C   0  0  0  0  0  0
+   -0.0680    8.0430   -5.4000 C   0  0  0  0  0  0
+    0.4600    7.0540   -6.2300 C   0  0  0  0  0  0
+    0.5620    7.4950   -7.4820 N   0  0  0  0  0  0
+    0.1080    8.8360   -7.5070 N   0  0  0  0  0  0
+    0.8210    5.7850   -5.8370 N   0  0  0  0  0  0
+    1.0560    6.9050   -8.7640 C   0  0  0  0  0  0
+   -0.0765   11.6463   -7.4657 H   0  0  0  0  0  0
+   -1.7167    9.5720   -3.9939 H   0  0  0  0  0  0
+   -2.7217   11.6670   -3.0997 H   0  0  0  0  0  0
+   -1.5109   15.8220   -5.3388 H   0  0  0  0  0  0
+   -2.9785   15.2232   -6.1839 H   0  0  0  0  0  0
+   -0.2714    7.9653   -4.3320 H   0  0  0  0  0  0
+    0.7115    5.4830   -4.7850 H   0  0  0  0  0  0
+    1.2190    5.0730   -6.5750 H   0  0  0  0  0  0
+    1.3729    5.8659   -8.5913 H   0  0  0  0  0  0
+    1.9098    7.4923   -9.1329 H   0  0  0  0  0  0
+    0.2487    6.9228   -9.5109 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  6  1  0  0  0
+  1 17  1  0  0  0
+  2  3  1  0  0  0
+  2 10  1  0  0  0
+  3  4  2  0  0  0
+  3 18  1  0  0  0
+  4  5  1  0  0  0
+  4 19  1  0  0  0
+  5  6  2  0  0  0
+  5  9  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  8 20  1  0  0  0
+  8 21  1  0  0  0
+ 10 11  1  0  0  0
+ 10 14  2  0  0  0
+ 11 12  2  0  0  0
+ 11 22  1  0  0  0
+ 12 13  1  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 13 16  1  0  0  0
+ 15 23  1  0  0  0
+ 15 24  1  0  0  0
+ 16 25  1  0  0  0
+ 16 26  1  0  0  0
+ 16 27  1  0  0  0
+M  END
+> <s_m_source_file>
+../3ao4_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+TzFbQ0gyXU9jKGMxMilbY0hdYyhbY0hdW2NIXTIpLWMzW2NIXWMoW05IMl0pbihuMylbQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0005
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0005
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

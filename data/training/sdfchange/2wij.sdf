@@ -1,0 +1,79 @@
+2wij_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 19 18  0  0  1  0            999 V2000
+  -17.5180  -39.8820  -22.7350 C   0  0  0  0  0  0
+  -18.0810  -38.4960  -23.0450 C   0  0  0  0  0  0
+  -17.4360  -37.5150  -22.2050 O   0  0  0  0  0  0
+  -16.1870  -36.7830  -22.7040 P   0  0  0  0  0  0
+  -16.0600  -36.6210  -24.1610 O   0  0  0  0  0  0
+  -14.7810  -37.5210  -21.8550 N   0  0  3  0  0  0
+  -14.8320  -38.9550  -21.9920 C   0  0  0  0  0  0
+  -13.4350  -39.5390  -22.1350 C   0  0  0  0  0  0
+  -18.0098  -40.6291  -23.3753 H   0  0  0  0  0  0
+  -17.7038  -40.1253  -21.6785 H   0  0  0  0  0  0
+  -16.4351  -39.8894  -22.9281 H   0  0  0  0  0  0
+  -17.8952  -38.2527  -24.1015 H   0  0  0  0  0  0
+  -19.1639  -38.4885  -22.8520 H   0  0  0  0  0  0
+  -14.0589  -37.0035  -21.3538 H   0  0  0  0  0  0
+  -15.3073  -39.3917  -21.1013 H   0  0  0  0  0  0
+  -15.4171  -39.2174  -22.8857 H   0  0  0  0  0  0
+  -13.5033  -40.6321  -22.2376 H   0  0  0  0  0  0
+  -12.8408  -39.2908  -21.2432 H   0  0  0  0  0  0
+  -12.9506  -39.1165  -23.0276 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2 12  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  6  7  1  0  0  0
+  6 14  1  0  0  0
+  7  8  1  0  0  0
+  7 15  1  0  0  0
+  7 16  1  0  0  0
+  8 17  1  0  0  0
+  8 18  1  0  0  0
+  8 19  1  0  0  0
+M  END
+> <s_m_source_file>
+../2wij_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bQ0gyXU9QKFtPSF0pW05IXVtDSDJdW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

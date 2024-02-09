@@ -1,0 +1,79 @@
+2on3_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 16  0  0  1  0            999 V2000
+  -27.5770  -11.7780   20.8920 N   0  3  0  0  0  0
+  -27.3250  -11.4570   19.5050 C   0  0  0  0  0  0
+  -26.1650  -12.2810   18.9590 C   0  0  0  0  0  0
+  -26.2000  -12.2860   17.4490 C   0  0  0  0  0  0
+  -27.5330  -11.8780   17.1540 O   0  0  0  0  0  0
+  -28.6170  -12.7810   17.4520 N   0  0  0  0  0  0
+  -28.4168  -11.1715   21.2620 H   0  0  0  0  0  0
+  -26.6779  -11.5615   21.4876 H   0  0  0  0  0  0
+  -27.8280  -12.8452   20.9816 H   0  0  0  0  0  0
+  -28.2241  -11.6735   18.9094 H   0  0  0  0  0  0
+  -27.0740  -10.3898   19.4154 H   0  0  0  0  0  0
+  -25.2138  -11.8442   19.2973 H   0  0  0  0  0  0
+  -26.2448  -13.3149   19.3261 H   0  0  0  0  0  0
+  -25.4485  -11.5819   17.0625 H   0  0  0  0  0  0
+  -25.9778  -13.2983   17.0804 H   0  0  0  0  0  0
+  -29.5714  -12.3154   17.1652 H   0  0  0  0  0  0
+  -28.4810  -13.7157   16.8883 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  1  9  1  0  0  0
+  2  3  1  0  0  0
+  2 10  1  0  0  0
+  2 11  1  0  0  0
+  3  4  1  0  0  0
+  3 12  1  0  0  0
+  3 13  1  0  0  0
+  4  5  1  0  0  0
+  4 14  1  0  0  0
+  4 15  1  0  0  0
+  5  6  1  0  0  0
+  6 16  1  0  0  0
+  6 17  1  0  0  0
+M  CHG  1   1   1
+M  END
+> <s_m_source_file>
+../2on3_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMytdW0NIMl1bQ0gyXVtDSDJdT1tOSDMrXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0032
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0011
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0021
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00105286709170436
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

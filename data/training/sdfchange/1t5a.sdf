@@ -1,0 +1,51 @@
+1t5a_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+  6  5  0  0  1  0            999 V2000
+   70.9350    0.5140   71.7250 C   0  0  0  0  0  0
+   71.5060    1.6510   72.6370 C   0  0  0  0  0  0
+   70.6550    0.8880   70.5780 O   0  0  0  0  0  0
+   71.8250    1.3750   73.8390 O   0  5  0  0  0  0
+   70.7890   -0.6670   72.1700 O   0  5  0  0  0  0
+   71.6000    2.7760   72.0800 O   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  2  0  0  0
+  1  5  1  0  0  0
+  2  4  1  0  0  0
+  2  6  2  0  0  0
+M  CHG  2   4  -1   5  -1
+M  END
+> <s_m_source_file>
+../1t5a_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DKFtPSF0pQyg9TylbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.0138
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0138
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0108
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0246500087683109
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+2
+
+$$$$

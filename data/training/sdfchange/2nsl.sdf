@@ -1,0 +1,164 @@
+2nsl_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 33 34  0  0  1  0            999 V2000
+   15.5900  -11.6380   -9.4290 P   0  0  0  0  0  0
+   16.4120  -12.9650   -9.0360 O   0  5  0  0  0  0
+   14.5510  -11.3900   -8.2250 O   0  5  0  0  0  0
+   16.4640  -10.4730   -9.6880 O   0  0  0  0  0  0
+   14.6290  -13.9900  -15.0020 N   0  0  0  0  0  0
+   14.5190  -14.3090  -16.2870 C   0  0  0  0  0  0
+   15.5330  -15.2080  -16.5790 C   0  0  0  0  0  0
+   16.2440  -15.3900  -15.4710 N   0  0  0  0  0  0
+   15.6860  -14.6420  -14.5190 C   0  0  0  0  0  0
+   13.6380  -13.8050  -17.1480 N   0  0  0  0  0  0
+   15.7230  -15.9450  -17.9060 C   0  0  0  0  0  0
+   14.9970  -15.6090  -18.8670 O   0  0  0  0  0  0
+   16.5850  -16.8500  -17.9530 O   0  5  0  0  0  0
+   14.6990  -12.0440  -10.7070 O   0  0  0  0  0  0
+   13.1420  -14.0120  -13.0640 C   0  0  2  0  0  0
+   12.1960  -14.9550  -13.5740 O   0  0  0  0  0  0
+   12.4230  -12.9180  -12.2750 C   0  0  2  0  0  0
+   11.0870  -12.7740  -12.7640 O   0  0  0  0  0  0
+   13.8620  -11.0750  -11.3420 C   0  0  0  0  0  0
+   13.2410  -11.6660  -12.6090 C   0  0  1  0  0  0
+   14.2830  -12.0960  -13.5020 O   0  0  0  0  0  0
+   13.6720  -13.1730  -14.2240 C   0  0  1  0  0  0
+   15.9719  -14.5162  -13.4852 H   0  0  0  0  0  0
+   12.8731  -13.0951  -16.8001 H   0  0  0  0  0  0
+   13.6748  -14.0983  -18.2075 H   0  0  0  0  0  0
+   13.8575  -14.6361  -12.5086 H   0  0  0  0  0  0
+   11.6966  -15.6575  -12.8906 H   0  0  0  0  0  0
+   12.2892  -13.1191  -11.2018 H   0  0  0  0  0  0
+   10.3558  -13.5818  -12.6126 H   0  0  0  0  0  0
+   13.0590  -10.7758  -10.6523 H   0  0  0  0  0  0
+   14.4615  -10.1930  -11.6115 H   0  0  0  0  0  0
+   12.6417  -10.8922  -13.1111 H   0  0  0  0  0  0
+   12.9681  -12.7804  -14.9726 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  1  0  0  0
+  1  4  2  0  0  0
+  1 14  1  0  0  0
+  5  6  1  0  0  0
+  5  9  1  0  0  0
+  5 22  1  0  0  0
+  6  7  2  0  0  0
+  6 10  1  0  0  0
+  7  8  1  0  0  0
+  7 11  1  0  0  0
+  8  9  2  0  0  0
+  9 23  1  0  0  0
+ 10 24  1  0  0  0
+ 10 25  1  0  0  0
+ 11 12  2  0  0  0
+ 11 13  1  0  0  0
+ 14 19  1  0  0  0
+ 15 16  1  0  0  0
+ 15 17  1  0  0  0
+ 15 22  1  0  0  0
+ 15 26  1  0  0  0
+ 16 27  1  0  0  0
+ 17 18  1  0  0  0
+ 17 20  1  0  0  0
+ 17 28  1  0  0  0
+ 18 29  1  0  0  0
+ 19 20  1  0  0  0
+ 19 30  1  0  0  0
+ 19 31  1  0  0  0
+ 20 21  1  0  0  0
+ 20 32  1  0  0  0
+ 21 22  1  0  0  0
+ 22 33  1  0  0  0
+M  CHG  3   2  -1   3  -1  13  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+95
+
+> <s_m_entry_name>
+Structure95
+
+> <s_m_Source_Path>
+/disk1/aquila/PDBbind2020/fail/2nsl
+
+> <s_m_Source_File>
+2nsl_protein.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_TITLE>
+2nsl_protein
+
+> <i_pdb_PDB_Model>
+1
+
+> <s_pdb_PDB_format_version>
+3.0
+
+> <s_ppw_entry_id_backup>
+84
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2020-2
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <s_ppw_het_states>
+eJztlz1vwjAQhv+KlZm4/kjsHGydulYdKwZEmUqhQzpUiP9eOw68+QAhUIoEONPplZ337vzIOm8SmYzZu/sot3bExHTEfFggpH1YCIQSoUKoEWYIc4QGIdwKuBVwI7gR3AhuBDeCG8GN4EZwo8rNx3XNoVxZlxsE6gi+dNUUfHYSvQhtaAt5RyC4+MWhXaolGKzQlZB1BQsh27kodDQ0sy2gFp906JBEY0NP24LuCkidqjwo6wpI3f+/LZhKQOpk8VOnSMEzmzujTeLLckB6pdDbEdM8VxkJfO5XyVs5Kxfse7GaLcvfejH7nM+WT1/r5YS9pM/r1Qebr39W5ZgVE/Y6ZiKpDrxPebo7ZkJ8Jc7TxqlE0B8BdMGVMlmDc8GllZ5zabm1+gDcbos+yrYUFdypPkZ34w5vwp02juvO6G6xe5DulhDpvmG6m3d3Y0S5Y7p7d3cL90j3A9AdB5MI9/ATOFe+DMzfDnYiz7bhVuYHZm634STa6syxJKId0b4i2tkFaNMJsod4Tu62RbQj2ifQNsLPHZtwUWvy80kfZyMGv6nPGrFvi+f4gLxnnod4Mt4Wz/HJ+IA8x3Ej4jw4zoobY1WNc861VkUfZ7fInsRZ/uPDMOIccT4fZ30JzrSnebr9A7Vmy2E=
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_m_source_file>
+../2nsl_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W08tXVAoW08tXSkoPU8pT1tDSDJdW0NASF0oW0NAQEhdKFtPSF0pW0NASF0xW09IXSlPW0NASF0xbjJjKFtOSDJdKWMoQyg9TylbTy1dKW5bY0hdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.1667
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1666
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.166624326658662
+
+> <i_epik_Tot_Q>
+-3
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

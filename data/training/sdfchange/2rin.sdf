@@ -1,0 +1,97 @@
+2rin_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 25  0  0  1  0            999 V2000
+   15.7840    3.4300   16.9580 N   0  3  0  0  0  0
+   16.3470    2.0950   16.7090 C   0  0  0  0  0  0
+   16.1910    1.7470   15.2330 C   0  0  0  0  0  0
+   17.4750    1.3350   14.7310 O   0  0  0  0  0  0
+   18.2300    2.4730   14.6900 C   0  0  0  0  0  0
+   18.8230    2.8870   15.6790 O   0  0  0  0  0  0
+   18.3020    3.2350   13.3770 C   0  0  0  0  0  0
+   16.8110    4.4790   16.8870 C   0  0  0  0  0  0
+   15.2060    3.3790   18.3090 C   0  0  0  0  0  0
+   14.7510    3.7160   15.9370 C   0  0  0  0  0  0
+   17.4140    2.0913   16.9765 H   0  0  0  0  0  0
+   15.8133    1.3522   17.3200 H   0  0  0  0  0  0
+   15.4623    0.9303   15.1239 H   0  0  0  0  0  0
+   15.8358    2.6312   14.6834 H   0  0  0  0  0  0
+   17.7091    2.7086   12.6146 H   0  0  0  0  0  0
+   19.3494    3.2991   13.0472 H   0  0  0  0  0  0
+   17.8996    4.2489   13.5189 H   0  0  0  0  0  0
+   17.5884    4.2826   17.6400 H   0  0  0  0  0  0
+   16.3494    5.4580   17.0833 H   0  0  0  0  0  0
+   17.2638    4.4815   15.8845 H   0  0  0  0  0  0
+   16.0000    3.1651   19.0396 H   0  0  0  0  0  0
+   14.4446    2.5863   18.3523 H   0  0  0  0  0  0
+   14.7411    4.3474   18.5457 H   0  0  0  0  0  0
+   15.2180    3.7467   14.9415 H   0  0  0  0  0  0
+   14.2820    4.6875   16.1521 H   0  0  0  0  0  0
+   13.9855    2.9264   15.9588 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  8  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2 11  1  0  0  0
+  2 12  1  0  0  0
+  3  4  1  0  0  0
+  3 13  1  0  0  0
+  3 14  1  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  5  7  1  0  0  0
+  7 15  1  0  0  0
+  7 16  1  0  0  0
+  7 17  1  0  0  0
+  8 18  1  0  0  0
+  8 19  1  0  0  0
+  8 20  1  0  0  0
+  9 21  1  0  0  0
+  9 22  1  0  0  0
+  9 23  1  0  0  0
+ 10 24  1  0  0  0
+ 10 25  1  0  0  0
+ 10 26  1  0  0  0
+M  CHG  1   1   1
+M  END
+> <s_m_source_file>
+../2rin_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11bTitdKFtDSDNdKShbQ0gzXSlbQ0gyXVtDSDJdT0MoPU8pW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

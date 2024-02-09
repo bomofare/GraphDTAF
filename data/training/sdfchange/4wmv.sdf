@@ -1,0 +1,78 @@
+4wmv_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 18  0  0  1  0            999 V2000
+  113.8430  193.2530   35.7090 C   0  0  0  0  0  0
+  116.8690  192.3560   34.0880 O   0  0  0  0  0  0
+  115.6510  192.0810   34.2560 C   0  0  0  0  0  0
+  115.2480  190.8890   34.1280 O   0  5  0  0  0  0
+  114.6810  193.1940   34.6080 C   0  0  0  0  0  0
+  114.4000  194.6550   33.7280 S   0  0  0  0  0  0
+  113.2020  195.3120   34.7920 C   0  0  0  0  0  0
+  112.4600  196.4940   34.7780 C   0  0  0  0  0  0
+  111.5460  196.7520   35.7970 C   0  0  0  0  0  0
+  110.8340  197.8900   35.7810 F   0  0  0  0  0  0
+  111.3780  195.8280   36.8300 C   0  0  0  0  0  0
+  112.1150  194.6530   36.8470 C   0  0  0  0  0  0
+  113.0340  194.3960   35.8160 C   0  0  0  0  0  0
+  113.7900  191.9730   36.8920 Cl  0  0  0  0  0  0
+  112.5955  197.2141   33.9710 H   0  0  0  0  0  0
+  110.6636  196.0311   37.6278 H   0  0  0  0  0  0
+  111.9820  193.9337   37.6551 H   0  0  0  0  0  0
+  1  5  2  0  0  0
+  1 13  1  0  0  0
+  1 14  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  5  6  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  7 13  2  0  0  0
+  8  9  2  0  0  0
+  8 15  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 16  1  0  0  0
+ 12 13  1  0  0  0
+ 12 17  1  0  0  0
+M  CHG  1   4  -1
+M  END
+> <s_m_source_file>
+../4wmv_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1DKFtPSF0pYyhzMSljKENsKWMoYzEyKVtjSF1bY0hdYyhGKVtjSF0y
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+9.06745373327154e-06
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+$$$$

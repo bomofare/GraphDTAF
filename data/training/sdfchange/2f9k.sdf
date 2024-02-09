@@ -1,0 +1,91 @@
+2f9k_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 24 24  0  0  1  0            999 V2000
+   16.6780   75.6210   24.1760 O   0  0  0  0  0  0
+   15.3220   75.5810   24.7890 P   0  0  0  0  0  0
+   15.1240   74.2770   25.6680 O   0  5  0  0  0  0
+   14.1300   75.5570   23.7330 O   0  5  0  0  0  0
+   15.0210   77.0200   25.8670 C   0  0  2  0  0  0
+   16.3800   77.1240   27.0700 P   0  0  0  0  0  0
+   16.0060   78.3290   28.0570 O   0  5  0  0  0  0
+   16.2000   75.8340   27.9790 O   0  0  0  0  0  0
+   17.7260   77.2050   26.4520 O   0  0  0  0  0  0
+   13.7750   76.8000   26.5490 O   0  0  0  0  0  0
+   14.9610   78.2850   24.9600 C   0  0  0  0  0  0
+   14.6850   79.5740   25.5980 N   0  0  0  0  0  0
+   13.6500   79.8790   26.3320 C   0  0  0  0  0  0
+   13.7430   81.0720   26.6940 N   0  3  0  0  0  0
+   14.9480   81.6670   26.1730 C   0  0  0  0  0  0
+   15.4800   80.6270   25.4920 C   0  0  0  0  0  0
+   15.2459   75.6543   28.4961 H   0  0  0  0  0  0
+   13.6637   75.9417   27.2279 H   0  0  0  0  0  0
+   15.9275   78.4180   24.4519 H   0  0  0  0  0  0
+   14.1663   78.1608   24.2096 H   0  0  0  0  0  0
+   12.8350   79.2021   26.5884 H   0  0  0  0  0  0
+   15.3278   82.6814   26.2950 H   0  0  0  0  0  0
+   16.4197   80.6519   24.9402 H   0  0  0  0  0  0
+   12.9598   81.5181   27.3246 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  5 11  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  6  9  2  0  0  0
+  8 17  1  0  0  0
+ 10 18  1  0  0  0
+ 11 12  1  0  0  0
+ 11 19  1  0  0  0
+ 11 20  1  0  0  0
+ 12 13  1  0  0  0
+ 12 16  1  0  0  0
+ 13 14  2  0  0  0
+ 13 21  1  0  0  0
+ 14 15  1  0  0  0
+ 14 24  1  0  0  0
+ 15 16  2  0  0  0
+ 15 22  1  0  0  0
+ 16 23  1  0  0  0
+M  CHG  4   3  -1   4  -1   7  -1  14   1
+M  END
+> <s_m_source_file>
+../2f9k_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1QKFtPSF0pKFtPSF0pQyhbT0hdKShQKD1PKShbT0hdKVtPSF0pW0NIMl1uMVtjSF1uW2NIXVtjSF0x
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.4852
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1152
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.3700
+
+> <r_epik_State_Penalty>
+  0.3673
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.482509133999399
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+4
+
+$$$$

@@ -1,0 +1,71 @@
+2pu1_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 13 12  0  0  1  0            999 V2000
+   26.6900   24.4750  -16.8690 O   0  5  0  0  0  0
+   26.4250   25.8380  -16.3870 P   0  0  0  0  0  0
+   27.6630   26.5850  -16.1440 O   0  5  0  0  0  0
+   25.4870   25.9090  -15.2800 O   0  0  0  0  0  0
+   25.6410   26.7240  -17.7910 C   0  0  2  0  0  0
+   25.8300   28.0530  -17.6240 F   0  0  0  0  0  0
+   24.1600   26.5140  -17.8150 C   0  0  0  0  0  0
+   23.4380   27.1010  -17.0480 O   0  0  0  0  0  0
+   23.7290   25.6730  -18.7300 N   0  0  0  0  0  0
+   22.4060   25.3770  -18.8540 O   0  0  0  0  0  0
+   25.9807   26.5682  -18.8256 H   0  0  0  0  0  0
+   24.4626   25.2055  -19.4032 H   0  0  0  0  0  0
+   22.0706   24.6703  -19.6274 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  2  3  1  0  0  0
+  2  4  2  0  0  0
+  2  5  1  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  5 11  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  9 10  1  0  0  0
+  9 12  1  0  0  0
+ 10 13  1  0  0  0
+M  CHG  2   1  -1   3  -1
+M  END
+> <s_m_source_file>
+../2pu1_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVAoPU8pKFtPSF0pW0NASF0oRilDKD1PKVtOSF1bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.1411
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1318
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0093
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.131814686078944
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

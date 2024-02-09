@@ -1,0 +1,76 @@
+1pa9_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 18 18  0  0  1  0            999 V2000
+    5.8190   -8.5760   73.6040 S   0  0  0  0  0  0
+    4.3710   -8.8450   72.7660 O   0  0  0  0  0  0
+    5.4890   -8.1310   74.9110 O   0  0  0  0  0  0
+    6.5190   -7.5680   72.8330 O   0  5  0  0  0  0
+    6.5660   -9.8050   73.6820 O   0  0  0  0  0  0
+    2.4450   -8.3330   74.7440 O   0  5  0  0  0  0
+    2.2260  -14.4920   72.6860 O   0  5  0  0  0  0
+    3.8230  -13.6900   71.5050 O   0  0  0  0  0  0
+    3.6980  -11.0680   72.5860 C   0  0  0  0  0  0
+    2.9630  -13.5210   72.3650 N   0  3  0  0  0  0
+    1.6220  -10.6910   74.6550 C   0  0  0  0  0  0
+    3.5100   -9.7340   73.2490 C   0  0  0  0  0  0
+    1.7890  -11.9930   74.0240 C   0  0  0  0  0  0
+    2.4610   -9.5690   74.2840 C   0  0  0  0  0  0
+    2.8270  -12.2100   72.9780 C   0  0  0  0  0  0
+    4.4660  -11.1993   71.8238 H   0  0  0  0  0  0
+    0.8546  -10.5585   75.4176 H   0  0  0  0  0  0
+    1.1451  -12.8206   74.3215 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  3  2  0  0  0
+  1  4  1  0  0  0
+  1  5  2  0  0  0
+  2 12  1  0  0  0
+  6 14  1  0  0  0
+  7 10  1  0  0  0
+  8 10  2  0  0  0
+  9 15  2  0  0  0
+  9 12  1  0  0  0
+  9 16  1  0  0  0
+ 10 15  1  0  0  0
+ 11 14  1  0  0  0
+ 11 13  2  0  0  0
+ 11 17  1  0  0  0
+ 12 14  2  0  0  0
+ 13 15  1  0  0  0
+ 13 18  1  0  0  0
+M  CHG  4   4  -1   6  -1   7  -1  10   1
+M  END
+> <s_m_source_file>
+../1pa9_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+Tz1TKD1PKShbT0hdKU9jMVtjSF1jKFtOK10oW08tXSk9TylbY0hdW2NIXWMxW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.1230
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1230
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1125
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.235504910366423
+
+> <i_epik_Tot_Q>
+-2
+
+> <i_epik_Tot_abs_Q>
+4
+
+$$$$

@@ -1,0 +1,105 @@
+2z8e_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 30 30  0  0  1  0            999 V2000
+   20.5770   -8.9020   41.9390 C   0  0  2  0  0  0
+   21.4150   -7.6430   41.5540 C   0  0  1  0  0  0
+   22.8740   -7.9000   41.9190 C   0  0  2  0  0  0
+   23.0580   -8.4560   43.3580 C   0  0  2  0  0  0
+   22.1050   -9.6270   43.6340 C   0  0  1  0  0  0
+   22.1700  -10.0760   45.0810 C   0  0  0  0  0  0
+   21.1360   -6.1140   39.6680 C   0  0  0  0  0  0
+   21.0130   -5.9860   38.1810 C   0  0  0  0  0  0
+   21.2830   -7.3630   40.1110 N   0  0  0  0  0  0
+   19.2370   -8.5420   41.7980 O   0  0  0  0  0  0
+   23.6710   -6.7220   41.6700 O   0  0  0  0  0  0
+   22.9120   -7.3800   44.3240 O   0  0  0  0  0  0
+   20.7690   -9.2350   43.3020 O   0  0  0  0  0  0
+   23.4510  -10.6940   45.3830 O   0  0  0  0  0  0
+   21.1000   -5.1340   40.4260 O   0  0  0  0  0  0
+   20.7948   -9.8057   41.3508 H   0  0  0  0  0  0
+   21.0562   -6.7360   42.0625 H   0  0  0  0  0  0
+   23.2795   -8.6456   41.2192 H   0  0  0  0  0  0
+   24.0826   -8.8241   43.5153 H   0  0  0  0  0  0
+   22.3495  -10.4837   42.9888 H   0  0  0  0  0  0
+   22.0358   -9.2064   45.7411 H   0  0  0  0  0  0
+   21.3728  -10.8091   45.2736 H   0  0  0  0  0  0
+   21.0729   -6.9834   37.7209 H   0  0  0  0  0  0
+   21.8296   -5.3561   37.7984 H   0  0  0  0  0  0
+   20.0462   -5.5245   37.9314 H   0  0  0  0  0  0
+   21.3053   -8.1900   39.3860 H   0  0  0  0  0  0
+   18.8492   -8.2401   40.8139 H   0  0  0  0  0  0
+   23.6320   -6.2292   40.6873 H   0  0  0  0  0  0
+   23.5367   -6.4784   44.2416 H   0  0  0  0  0  0
+   23.6536  -11.0732   46.3955 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 10  1  0  0  0
+  1 13  1  0  0  0
+  1 16  1  0  0  0
+  2  3  1  0  0  0
+  2  9  1  0  0  0
+  2 17  1  0  0  0
+  3  4  1  0  0  0
+  3 11  1  0  0  0
+  3 18  1  0  0  0
+  4  5  1  0  0  0
+  4 12  1  0  0  0
+  4 19  1  0  0  0
+  5  6  1  0  0  0
+  5 13  1  0  0  0
+  5 20  1  0  0  0
+  6 14  1  0  0  0
+  6 21  1  0  0  0
+  6 22  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  7 15  2  0  0  0
+  8 23  1  0  0  0
+  8 24  1  0  0  0
+  8 25  1  0  0  0
+  9 26  1  0  0  0
+ 10 27  1  0  0  0
+ 11 28  1  0  0  0
+ 12 29  1  0  0  0
+ 14 30  1  0  0  0
+M  END
+> <s_m_source_file>
+../2z8e_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIM11DKD1PKVtOSF1bQ0BASF0oW0NAQEhdMVtPSF0pW0NAQEhdKFtPSF0pW0NAQEhdKFtPSF0pW0NASF0oTzEpW0NIMl1bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+$$$$

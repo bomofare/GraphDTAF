@@ -1,0 +1,77 @@
+3ip6_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 17 17  0  0  1  0            999 V2000
+   23.1980   18.7880   16.7770 N   0  3  0  0  0  0
+   23.4530   18.5600   18.1990 C   0  0  2  0  0  0
+   23.0210   17.1730   18.6780 C   0  0  0  0  0  0
+   23.1290   16.8820   19.8780 O   0  0  0  0  0  0
+   22.6240   19.6730   18.8500 C   0  0  0  0  0  0
+   22.7480   20.8550   17.8270 C   0  0  0  0  0  0
+   23.2200   20.2360   16.4920 C   0  0  0  0  0  0
+   22.5730   16.3380   17.8710 O   0  5  0  0  0  0
+   23.9750   18.2877   16.1803 H   0  0  0  0  0  0
+   22.2118   18.3796   16.5112 H   0  0  0  0  0  0
+   24.5327   18.5928   18.4070 H   0  0  0  0  0  0
+   21.5860   19.3313   18.9756 H   0  0  0  0  0  0
+   23.0502   19.9202   19.8335 H   0  0  0  0  0  0
+   21.7687   21.3420   17.7089 H   0  0  0  0  0  0
+   23.4791   21.5874   18.1998 H   0  0  0  0  0  0
+   24.2415   20.5408   16.2206 H   0  0  0  0  0  0
+   22.5378   20.4559   15.6576 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  1  9  1  0  0  0
+  1 10  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 11  1  0  0  0
+  3  4  2  0  0  0
+  3  8  1  0  0  0
+  5  6  1  0  0  0
+  5 12  1  0  0  0
+  5 13  1  0  0  0
+  6  7  1  0  0  0
+  6 14  1  0  0  0
+  6 15  1  0  0  0
+  7 16  1  0  0  0
+  7 17  1  0  0  0
+M  CHG  2   1   1   8  -1
+M  END
+> <s_m_source_file>
+../3ip6_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W0NIMl0xW0NIMl1bQ0gyXVtOSDIrXVtDQEBIXTFDKD1PKVtPSF0=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00090018358765947
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+$$$$

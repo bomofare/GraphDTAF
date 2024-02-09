@@ -1,0 +1,72 @@
+4x2s_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 15 14  0  0  1  0            999 V2000
+   29.6850  -75.1250  -17.4380 N   0  3  0  0  0  0
+   31.1130  -75.3630  -17.2750 C   0  0  2  0  0  0
+   31.4240  -75.8540  -15.8550 C   0  0  0  0  0  0
+   32.1110  -76.8590  -15.6570 O   0  5  0  0  0  0
+   31.8940  -74.0860  -17.5910 C   0  0  0  0  0  0
+   31.8990  -73.7630  -19.0640 C   0  0  0  0  0  0
+   32.4370  -74.5760  -19.8430 O   0  0  0  0  0  0
+   31.3590  -72.7020  -19.4420 O   0  5  0  0  0  0
+   30.9860  -75.2690  -14.8630 O   0  0  0  0  0  0
+   29.1311  -76.0474  -17.2091 H   0  0  0  0  0  0
+   29.4799  -74.8220  -18.4753 H   0  0  0  0  0  0
+   29.3659  -74.3260  -16.7526 H   0  0  0  0  0  0
+   31.3713  -76.1503  -17.9985 H   0  0  0  0  0  0
+   31.4393  -73.2371  -17.0593 H   0  0  0  0  0  0
+   32.9383  -74.2051  -17.2665 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  9  2  0  0  0
+  5  6  1  0  0  0
+  5 14  1  0  0  0
+  5 15  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+M  CHG  3   1   1   4  -1   8  -1
+M  END
+> <s_m_source_file>
+../4x2s_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXUMoPU8pW0NAQEhdKFtOSDMrXSlbQ0gyXUMoPU8pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0054
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0054
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00544610570333974
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+3
+
+$$$$

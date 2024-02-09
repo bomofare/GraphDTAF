@@ -1,0 +1,61 @@
+2o4z_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 10  9  0  0  1  0            999 V2000
+   -4.4550    1.4950   14.3290 O   0  0  0  0  0  0
+   -4.3820    1.8330   15.7780 N   0  0  3  0  0  0
+   -5.4800    0.9060   16.5510 S   0  0  0  0  0  0
+   -6.8610    1.4130   16.2970 O   0  0  0  0  0  0
+   -5.2560    0.9630   18.0350 O   0  0  0  0  0  0
+   -5.2830   -0.6210   16.0470 N   0  0  0  0  0  0
+   -3.7956    2.0051   13.6114 H   0  0  0  0  0  0
+   -3.7601    2.5178   16.2078 H   0  0  0  0  0  0
+   -6.0121   -1.2710   16.5529 H   0  0  0  0  0  0
+   -4.2635   -0.9575   16.2866 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  2  3  1  0  0  0
+  2  8  1  0  0  0
+  3  4  2  0  0  0
+  3  5  2  0  0  0
+  3  6  1  0  0  0
+  6  9  1  0  0  0
+  6 10  1  0  0  0
+M  END
+> <s_m_source_file>
+../2o4z_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtOSF1TKD1PKSg9TylbTkgyXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_epik_Ionization_Penalty>
+  0.1863
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.1863
+
+> <r_epik_State_Penalty>
+  0.1749
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.174922054745426
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound has a N-S or N-O group and may undergo hydrolysis at high or low pH.
+
+$$$$

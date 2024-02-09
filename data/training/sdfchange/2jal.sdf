@@ -1,0 +1,94 @@
+2jal_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 26 26  0  0  1  0            999 V2000
+   -1.3520    9.2260   10.5300 O   0  0  0  0  0  0
+   -2.0250   10.4670   10.2590 C   0  0  2  0  0  0
+   -2.4890   10.5100    8.7790 C   0  0  2  0  0  0
+   -3.4260    9.3820    8.3660 C   0  0  0  0  0  0
+   -2.8050    8.1110    8.5620 O   0  0  0  0  0  0
+   -1.2460   10.6240    7.8600 C   0  0  1  0  0  0
+   -1.6070   10.7580    6.4860 O   0  0  0  0  0  0
+   -0.4860   11.8970    8.2990 C   0  0  2  0  0  0
+    0.6820   12.1540    7.5180 O   0  0  0  0  0  0
+    0.0140   11.8530    9.7370 C   0  0  1  0  0  0
+    0.6110   13.1090   10.0230 O   0  0  0  0  0  0
+   -1.1110   11.6290   10.6990 C   0  0  0  0  0  0
+   -1.8403    8.2709   10.2865 H   0  0  0  0  0  0
+   -2.9323   10.4961   10.8803 H   0  0  0  0  0  0
+   -3.1326   11.3935    8.6553 H   0  0  0  0  0  0
+   -4.3428    9.4264    8.9722 H   0  0  0  0  0  0
+   -3.6842    9.4907    7.3023 H   0  0  0  0  0  0
+   -3.3493    7.1885    8.3118 H   0  0  0  0  0  0
+   -0.6448    9.7029    7.8714 H   0  0  0  0  0  0
+   -2.1589    9.9514    5.9812 H   0  0  0  0  0  0
+   -1.1930   12.7224    8.1292 H   0  0  0  0  0  0
+    0.6048   12.2366    6.4238 H   0  0  0  0  0  0
+    0.7678   11.0640    9.8763 H   0  0  0  0  0  0
+    1.4628   13.4624    9.4234 H   0  0  0  0  0  0
+   -1.7001   12.5559   10.7603 H   0  0  0  0  0  0
+   -0.6796   11.4029   11.6853 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 13  1  0  0  0
+  2  3  1  0  0  0
+  2 12  1  0  0  0
+  2 14  1  0  0  0
+  3  4  1  0  0  0
+  3  6  1  0  0  0
+  3 15  1  0  0  0
+  4  5  1  0  0  0
+  4 16  1  0  0  0
+  4 17  1  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  6 19  1  0  0  0
+  7 20  1  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  8 21  1  0  0  0
+  9 22  1  0  0  0
+ 10 11  1  0  0  0
+ 10 12  1  0  0  0
+ 10 23  1  0  0  0
+ 11 24  1  0  0  0
+ 12 25  1  0  0  0
+ 12 26  1  0  0  0
+M  END
+> <s_m_source_file>
+../2jal_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W09IXVtDQEBIXTFbQ0BIXShbQ0gyXVtPSF0pW0NAQEhdKFtPSF0pW0NASF0oW09IXSlbQ0BASF0oW09IXSlbQ0gyXTE=
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$

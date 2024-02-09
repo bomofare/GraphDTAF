@@ -1,0 +1,68 @@
+3ipa_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 13 12  0  0  1  0            999 V2000
+   23.2250   18.7540   16.8420 N   0  3  0  0  0  0
+   23.4190   18.6240   18.2810 C   0  0  2  0  0  0
+   23.0750   17.2090   18.7360 C   0  0  0  0  0  0
+   23.2120   16.8440   19.9100 O   0  5  0  0  0  0
+   22.5680   19.6480   19.0170 C   0  0  0  0  0  0
+   22.6530   16.3910   17.9150 O   0  0  0  0  0  0
+   23.8442   18.0098   16.3198 H   0  0  0  0  0  0
+   23.5187   19.7647   16.5223 H   0  0  0  0  0  0
+   22.1657   18.5856   16.5982 H   0  0  0  0  0  0
+   24.4838   18.8241   18.4711 H   0  0  0  0  0  0
+   22.8324   20.6591   18.6739 H   0  0  0  0  0  0
+   22.7518   19.5681   20.0986 H   0  0  0  0  0  0
+   21.5045   19.4572   18.8107 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  7  1  0  0  0
+  1  8  1  0  0  0
+  1  9  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  2 10  1  0  0  0
+  3  4  1  0  0  0
+  3  6  2  0  0  0
+  5 11  1  0  0  0
+  5 12  1  0  0  0
+  5 13  1  0  0  0
+M  CHG  2   1   1   4  -1
+M  END
+> <s_m_source_file>
+../3ipa_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMytdW0NAQEhdKFtDSDNdKUMoPU8pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0014
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0014
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00136663983590927
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+$$$$

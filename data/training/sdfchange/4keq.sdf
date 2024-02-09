@@ -1,0 +1,85 @@
+4keq_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 19 20  0  0  1  0            999 V2000
+    1.6850    6.9910  -12.7550 C   0  0  0  0  0  0
+    0.6890    6.1920  -12.2000 C   0  0  0  0  0  0
+   -0.5240    6.6840  -11.9340 N   0  3  0  0  0  0
+   -1.5050    5.8520  -11.3820 C   0  0  0  0  0  0
+   -1.2190    4.5750  -11.1220 C   0  0  0  0  0  0
+   -1.9450    3.5970  -10.6030 C   0  0  0  0  0  0
+   -3.0940    3.7900  -10.2170 O   0  0  0  0  0  0
+   -1.2830    2.4170  -10.4970 O   0  0  0  0  0  0
+    0.0190    2.7140  -11.0200 C   0  0  0  0  0  0
+   -0.0100    4.0670  -11.3840 C   0  0  0  0  0  0
+    0.9220    4.8580  -11.9070 C   0  0  0  0  0  0
+    2.1480    4.3380  -12.1710 O   0  5  0  0  0  0
+    1.2961    8.0085  -12.9079 H   0  0  0  0  0  0
+    1.9976    6.5689  -13.7215 H   0  0  0  0  0  0
+    2.5482    7.0268  -12.0741 H   0  0  0  0  0  0
+   -2.4981    6.2456  -11.1655 H   0  0  0  0  0  0
+    0.7768    2.5273  -10.2449 H   0  0  0  0  0  0
+    0.2195    2.0725  -11.8908 H   0  0  0  0  0  0
+   -0.7488    7.7392  -12.1488 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 13  1  0  0  0
+  1 14  1  0  0  0
+  1 15  1  0  0  0
+  2  3  2  0  0  0
+  2 11  1  0  0  0
+  3  4  1  0  0  0
+  3 19  1  0  0  0
+  4  5  2  0  0  0
+  4 16  1  0  0  0
+  5  6  1  0  0  0
+  5 10  1  0  0  0
+  6  7  2  0  0  0
+  6  8  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 17  1  0  0  0
+  9 18  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+M  CHG  2   3   1  12  -1
+M  END
+> <s_m_source_file>
+../4keq_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W2NIXTFuYyhbQ0gzXSljKFtPSF0pYyhjMTIpW0NIMl1PQzI9Tw==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0097
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0097
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00966648516645172
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an ester and may undergo hydrolysis at high or low pH.
+
+$$$$

@@ -1,0 +1,80 @@
+4ygf_ligand
+                    3D
+ Schrodinger Suite 2020-3.
+ 19 19  0  0  1  0            999 V2000
+  -10.6140  -39.7310  -77.0970 C   0  0  0  0  0  0
+  -11.4820  -41.2740  -78.8790 C   0  0  0  0  0  0
+  -12.6220  -43.5080  -79.1400 C   0  0  0  0  0  0
+  -13.1990  -44.5860  -80.0690 C   0  0  0  0  0  0
+   -8.5240  -38.7950  -75.5160 N   0  0  0  0  0  0
+  -10.9110  -40.1110  -79.3180 N   0  0  0  0  0  0
+  -10.4540  -39.2840  -78.3730 N   0  0  0  0  0  0
+  -12.0430  -42.3150  -79.6900 N   0  0  0  0  0  0
+  -10.8430  -37.6150  -75.5950 O   0  0  0  0  0  0
+  -10.6760  -39.8250  -74.5010 O   0  0  0  0  0  0
+  -12.6640  -43.6880  -77.9570 O   0  0  0  0  0  0
+  -10.1690  -38.9510  -75.5990 S   0  0  0  0  0  0
+  -11.3930  -41.2220  -77.1570 S   0  0  0  0  0  0
+  -13.0827  -44.2685  -81.1157 H   0  0  0  0  0  0
+  -14.2665  -44.7293  -79.8457 H   0  0  0  0  0  0
+  -12.6611  -45.5324  -79.9110 H   0  0  0  0  0  0
+   -8.2495  -38.3034  -74.5710 H   0  0  0  0  0  0
+   -8.1702  -38.1872  -76.3618 H   0  0  0  0  0  0
+  -12.0420  -42.2194  -80.7858 H   0  0  0  0  0  0
+  1  7  2  0  0  0
+  1 12  1  0  0  0
+  1 13  1  0  0  0
+  2  6  2  0  0  0
+  2  8  1  0  0  0
+  2 13  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  3 11  2  0  0  0
+  4 14  1  0  0  0
+  4 15  1  0  0  0
+  4 16  1  0  0  0
+  5 12  1  0  0  0
+  5 17  1  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  8 19  1  0  0  0
+  9 12  2  0  0  0
+ 10 12  2  0  0  0
+M  END
+> <s_m_source_file>
+../4ygf_ligand.sdf
+
+> <i_m_source_file_index>
+1
+
+> <s_epik_input>
+W05IMl1TKD1PKSg9TyljMW5uYyhzMSlbTkhdQyg9TylbQ0gzXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfYXBwJywgJy1pbWFlJywgJ2xpZ2FuZF9wcm8ubWFlJywgJy1vbWFlJywgJ2xpZ2FuZF9wcmVwLm1hZScsICctbXMnLCAnMScsICctcGgnLCAnNycsICctcGh0JywgJzAuNScsICctbnQn
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.2847
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.2847
+
+> <r_epik_State_Penalty>
+ -0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+$$$$
