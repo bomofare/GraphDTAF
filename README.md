@@ -1,9 +1,9 @@
-# GraphDTAF
-## About GraphDTAF
+# GraphPLA
+## About GraphPLA
 
-DeepDTAF is a deep learning architecture.  
+GraphPLA is a deep learning architecture.  
 
-The benchmark dataset can be found in `./data/`. The DeepDTAF model is available in `./src/`. And the result will be generated in `./runs/`. See our paper for more details.
+The benchmark dataset can be found in `./data/`. The GraphPLA model is available in `./src/`. And the result will be generated in `./runs/`. See our paper for more details.
 
 ### Requirements:
 - python 3.7
